@@ -1,0 +1,2677 @@
+PERIOD;cont1;cont2;REPORTER;import_val;export_val;world_part
+2000;NA;NA;Fmr Sudan;3442;0;Africa
+2000;NA;NA;Iran;49320;0;Asia
+2000;NA;NA;Other Asia, nes;111567;18744;Asia
+2000;NA;NA;Rep. of Korea;414492;29965;Asia
+2000;NA;NA;Rep. of Moldova;3263;0;Europe
+2000;NA;NA;Venezuela;8162;0;Americas
+2000;NA;Africa;United Rep. of Tanzania;14076;0;Africa
+2000;NA;Europe;Czechia;1356;126415;Europe
+2000;NA;Americas;USA;61081832;1678733;Americas
+2000;NA;Europe;Faeroe Isds;45508;0;Europe
+2000;NA;Africa;Eswatini;23891;7250;Africa
+2000;NA;Europe;Serbia and Montenegro;2000;0;Europe
+2000;Oceania;Oceania;Australia;12933021;1353534;Oceania
+2000;Oceania;Oceania;New Zealand;58439;331915;Oceania
+2000;Americas;NA;Bahamas;34217;0;Americas
+2000;Americas;NA;Saint Kitts and Nevis;6461;9259;Americas
+2000;Americas;NA;Saint Lucia;774;0;Americas
+2000;Americas;NA;Saint Vincent and the Grenadines;16626;0;Americas
+2000;Americas;Americas;Antigua and Barbuda;36562;2059;Americas
+2000;Americas;Americas;Barbados;1475;0;Americas
+2000;Americas;Americas;Cuba;8694;0;Americas
+2000;Americas;Americas;Grenada;5031;0;Americas
+2000;Americas;Americas;Jamaica;4090;0;Americas
+2000;Americas;Americas;Trinidad and Tobago;1188;0;Americas
+2000;Americas;Americas;Guatemala;141;0;Americas
+2000;Americas;Americas;Honduras;34617;0;Americas
+2000;Americas;Americas;Mexico;38744;11000;Americas
+2000;Americas;Americas;Nicaragua;1306;0;Americas
+2000;Americas;Americas;Panama;24675;0;Americas
+2000;Africa;Africa;Ethiopia;44796;0;Africa
+2000;Africa;Africa;Kenya;15643;0;Africa
+2000;Africa;Africa;Malawi;0;11737;Africa
+2000;Africa;Africa;Mauritius;1474;0;Africa
+2000;Africa;Africa;Uganda;1877;0;Africa
+2000;Africa;Africa;Zimbabwe;168;17511;Africa
+2000;Asia;Asia;China;56996977;0;Asia
+2000;Asia;Asia;Japan;42621932;15396438;Asia
+2000;Asia;Asia;Mongolia;5884;0;Asia
+2000;Europe;NA;Russian Federation;1103306;4284;Europe
+2000;Europe;Europe;Hungary;191000;0;Europe
+2000;Europe;Europe;Poland;4711000;0;Europe
+2000;Europe;Europe;Romania;36000;0;Europe
+2000;Europe;Europe;Slovakia;832;0;Europe
+2000;Africa;Africa;Cameroon;22596;0;Africa
+2000;Africa;Africa;Gabon;159179;0;Africa
+2000;Africa;Africa;Algeria;5933;0;Africa
+2000;Americas;Americas;Canada;2478573;1151721;Americas
+2000;Europe;Europe;Denmark;4160546;426429454;Europe
+2000;Europe;Europe;Estonia;646;320;Europe
+2000;Europe;Europe;Finland;221693;36963;Europe
+2000;Europe;Europe;Ireland;7463428;2955;Europe
+2000;Europe;Europe;Latvia;656;0;Europe
+2000;Europe;Europe;Lithuania;1968;0;Europe
+2000;Europe;Europe;Norway;53136;641;Europe
+2000;Europe;Europe;Sweden;175585;106943;Europe
+2000;Europe;Europe;United Kingdom;14934427;558169;Europe
+2000;Oceania;Oceania;French Polynesia;1007;0;Oceania
+2000;Americas;Americas;Argentina;117157;0;Americas
+2000;Americas;Americas;Brazil;193859;441024;Americas
+2000;Americas;Americas;Chile;6107;0;Americas
+2000;Americas;Americas;Ecuador;63013;0;Americas
+2000;Americas;Americas;Guyana;24831;0;Americas
+2000;Asia;Asia;Indonesia;245329;0;Asia
+2000;Asia;Asia;Philippines;29350;34418;Asia
+2000;Asia;Asia;Singapore;153974;30502;Asia
+2000;Asia;Asia;Thailand;109011;55704;Asia
+2000;Africa;Africa;Botswana;15071;3530;Africa
+2000;Africa;Africa;Namibia;238474;52326;Africa
+2000;Africa;Africa;South Africa;49709;299;Africa
+2000;Asia;Asia;India;527054;1674675;Asia
+2000;Asia;Asia;Sri Lanka;2422;0;Asia
+2000;Europe;Europe;Albania;38247;0;Europe
+2000;Europe;Europe;Croatia;1112;745;Europe
+2000;Europe;Europe;Greece;6946153;290127;Europe
+2000;Europe;Europe;Italy;3273944;2394503;Europe
+2000;Europe;Europe;Portugal;5827498;294;Europe
+2000;Europe;Europe;Slovenia;1971;0;Europe
+2000;Europe;Europe;Spain;1380329;6698377;Europe
+2000;Africa;NA;Cabo Verde;5811;0;Africa
+2000;Africa;Africa;Burkina Faso;112;0;Africa
+2000;Africa;Africa;Guinea;69454;0;Africa
+2000;Africa;Africa;Mali;58226;0;Africa
+2000;Africa;Africa;Nigeria;5536;0;Africa
+2000;Africa;Africa;Senegal;1969;0;Africa
+2000;Africa;Africa;Togo;30046;0;Africa
+2000;Asia;Asia;Cyprus;12127;0;Asia
+2000;Asia;Asia;Israel;1000;0;Asia
+2000;Asia;Asia;Jordan;2880;0;Asia
+2000;Asia;Asia;Saudi Arabia;1040001;0;Asia
+2000;Asia;Asia;Turkey;27202;0;Asia
+2000;Europe;Europe;Austria;7573541;198192;Europe
+2000;Europe;Europe;Belgium;2182;7368;Europe
+2000;Europe;Europe;France;63181;79498;Europe
+2000;Europe;Europe;Germany;212203000;43660000;Europe
+2000;Europe;Europe;Luxembourg;1052;0;Europe
+2000;Europe;Europe;Netherlands;9207;1644958;Europe
+2000;Europe;Europe;Switzerland;28630;2804;Europe
+2001;NA;NA;China, Hong Kong SAR;0;47818;Asia
+2001;NA;NA;Iran;4379;0;Asia
+2001;NA;NA;Mozambique;2096;0;Africa
+2001;NA;NA;Other Asia, nes;2105082;1714;Asia
+2001;NA;NA;Rep. of Korea;240910;0;Asia
+2001;NA;NA;Venezuela;3920;0;Americas
+2001;NA;Americas;Dominican Rep.;10000;0;Americas
+2001;NA;Africa;United Rep. of Tanzania;37903;0;Africa
+2001;NA;Europe;Czechia;0;96170;Europe
+2001;NA;Americas;USA;462887821;0;Americas
+2001;NA;Europe;Faeroe Isds;37942;0;Europe
+2001;NA;Africa;Eswatini;71147;8272;Africa
+2001;Oceania;Oceania;Australia;22984381;1866347;Oceania
+2001;Oceania;Oceania;New Zealand;36981;2794;Oceania
+2001;Americas;NA;Bahamas;3444;1438;Americas
+2001;Americas;NA;Saint Vincent and the Grenadines;20444;0;Americas
+2001;Americas;Americas;Barbados;262;0;Americas
+2001;Americas;Americas;Cuba;166;0;Americas
+2001;Americas;Americas;Dominica;148;0;Americas
+2001;Americas;Americas;Grenada;26370;0;Americas
+2001;Americas;Americas;Trinidad and Tobago;1275;1500;Americas
+2001;Americas;Americas;Belize;5131;0;Americas
+2001;Americas;Americas;Costa Rica;24848;0;Americas
+2001;Americas;Americas;Guatemala;770;0;Americas
+2001;Americas;Americas;Mexico;36030;28970;Americas
+2001;Americas;Americas;Nicaragua;14578;0;Americas
+2001;Asia;Asia;Kazakhstan;4400;0;Asia
+2001;Africa;Africa;Ethiopia;8027;0;Africa
+2001;Africa;Africa;Kenya;21275;0;Africa
+2001;Africa;Africa;Mauritius;60370;0;Africa
+2001;Africa;Africa;Rwanda;14750;0;Africa
+2001;Africa;Africa;Seychelles;70620;68519;Africa
+2001;Africa;Africa;Uganda;6580;0;Africa
+2001;Asia;Asia;China;21692884;20061;Asia
+2001;Asia;Asia;Japan;103029444;5221;Asia
+2001;Asia;Asia;Mongolia;11313;0;Asia
+2001;Europe;NA;Belarus;187500;5700;Europe
+2001;Europe;NA;Russian Federation;272214;12536;Europe
+2001;Europe;Europe;Hungary;407000;0;Europe
+2001;Europe;Europe;Poland;9585000;231000;Europe
+2001;Europe;Europe;Slovakia;490;0;Europe
+2001;Europe;Europe;Ukraine;35410;0;Europe
+2001;Oceania;Oceania;New Caledonia;1068074;0;Oceania
+2001;Africa;Africa;Cameroon;188584;0;Africa
+2001;Africa;Africa;Tunisia;11102;0;Africa
+2001;Americas;Americas;Canada;11662216;8046566;Americas
+2001;Europe;Europe;Denmark;12017985;997747203;Europe
+2001;Europe;Europe;Estonia;20442;0;Europe
+2001;Europe;Europe;Finland;14365;41836;Europe
+2001;Europe;Europe;Iceland;788;0;Europe
+2001;Europe;Europe;Ireland;2927415;73768;Europe
+2001;Europe;Europe;Lithuania;4473;0;Europe
+2001;Europe;Europe;Norway;453391;0;Europe
+2001;Europe;Europe;Sweden;1094539;20355;Europe
+2001;Europe;Europe;United Kingdom;16861607;4225860;Europe
+2001;Americas;Americas;Argentina;6227434;0;Americas
+2001;Americas;Americas;Brazil;56122;3547062;Americas
+2001;Americas;Americas;Chile;501621;0;Americas
+2001;Americas;Americas;Ecuador;1291;0;Americas
+2001;Americas;Americas;Guyana;23074;0;Americas
+2001;Americas;Americas;Uruguay;11096;0;Americas
+2001;Asia;NA;Myanmar;2353317;0;Asia
+2001;Asia;NA;Viet Nam;3545969;0;Asia
+2001;Asia;Asia;Indonesia;31393;58914;Asia
+2001;Asia;Asia;Malaysia;534937;10610;Asia
+2001;Asia;Asia;Philippines;623649;4530;Asia
+2001;Asia;Asia;Singapore;42129;205995;Asia
+2001;Asia;Asia;Thailand;28627;68488;Asia
+2001;Africa;Africa;Botswana;44746;2066;Africa
+2001;Africa;Africa;Namibia;56746;33315;Africa
+2001;Africa;Africa;South Africa;128954;64592;Africa
+2001;Asia;Asia;India;4267394;168822;Asia
+2001;Asia;Asia;Sri Lanka;17901;0;Asia
+2001;Europe;Europe;Albania;551;0;Europe
+2001;Europe;Europe;Croatia;850;0;Europe
+2001;Europe;Europe;Greece;20906244;0;Europe
+2001;Europe;Europe;Italy;28787;6171455;Europe
+2001;Europe;Europe;Portugal;1627695;0;Europe
+2001;Europe;Europe;Slovenia;2605;0;Europe
+2001;Europe;Europe;Spain;12513959;4083183;Europe
+2001;Africa;NA;Cabo Verde;373;0;Africa
+2001;Africa;Africa;Burkina Faso;252;0;Africa
+2001;Africa;Africa;Guinea;1665;0;Africa
+2001;Africa;Africa;Niger;0;41;Africa
+2001;Africa;Africa;Nigeria;534062;0;Africa
+2001;Africa;Africa;Senegal;548;0;Africa
+2001;Africa;Africa;Togo;2866;0;Africa
+2001;Asia;Asia;Cyprus;4848;0;Asia
+2001;Asia;Asia;Georgia;56;0;Asia
+2001;Asia;Asia;Israel;4000;0;Asia
+2001;Asia;Asia;Lebanon;25903;0;Asia
+2001;Asia;Asia;Turkey;3449;13340;Asia
+2001;Europe;Europe;Austria;4740498;282536;Europe
+2001;Europe;Europe;Belgium;3330654;371677;Europe
+2001;Europe;Europe;France;45679;481733;Europe
+2001;Europe;Europe;Germany;394186000;37979000;Europe
+2001;Europe;Europe;Netherlands;10749;1750298;Europe
+2001;Europe;Europe;Switzerland;387826;10297;Europe
+2002;NA;NA;Bolivia (Plurinational State of);2132;0;Americas
+2002;NA;NA;China, Hong Kong SAR;33552;8462;Asia
+2002;NA;NA;Côte d'Ivoire;459;0;Africa
+2002;NA;NA;Fmr Sudan;12364;0;Africa
+2002;NA;NA;Other Asia, nes;2450739;18903;Asia
+2002;NA;NA;Rep. of Korea;1927779;56979;Asia
+2002;NA;NA;Venezuela;3514;0;Americas
+2002;NA;Americas;Dominican Rep.;1503;0;Americas
+2002;NA;Africa;United Rep. of Tanzania;2798;0;Africa
+2002;NA;Europe;Czechia;10374;111810;Europe
+2002;NA;Americas;USA;140723433;1758400;Americas
+2002;NA;Europe;Faeroe Isds;13984;0;Europe
+2002;NA;Africa;Eswatini;80583;2621;Africa
+2002;NA;Europe;Serbia and Montenegro;575;0;Europe
+2002;Oceania;Oceania;Australia;29446361;259875;Oceania
+2002;Oceania;Oceania;New Zealand;177227;0;Oceania
+2002;Americas;NA;Bahamas;4501;2250;Americas
+2002;Americas;NA;Saint Kitts and Nevis;48;0;Americas
+2002;Americas;NA;Saint Lucia;1769;0;Americas
+2002;Americas;NA;Saint Vincent and the Grenadines;2000;0;Americas
+2002;Americas;Americas;Barbados;1697;0;Americas
+2002;Americas;Americas;Cuba;59348;0;Americas
+2002;Americas;Americas;Grenada;866;0;Americas
+2002;Americas;Americas;Jamaica;9040;0;Americas
+2002;Americas;Americas;Trinidad and Tobago;5599;21521;Americas
+2002;Americas;Americas;Belize;1616;0;Americas
+2002;Americas;Americas;Costa Rica;41068;0;Americas
+2002;Americas;Americas;Honduras;135212;0;Americas
+2002;Americas;Americas;Mexico;186761;7110;Americas
+2002;Asia;Asia;Kazakhstan;1000;2300;Asia
+2002;Africa;Africa;Kenya;47146;3810;Africa
+2002;Africa;Africa;Mauritius;42221;0;Africa
+2002;Africa;Africa;Seychelles;636092;1136;Africa
+2002;Africa;Africa;Uganda;19269;0;Africa
+2002;Africa;Africa;Zambia;4235;0;Africa
+2002;Africa;Africa;Zimbabwe;0;62881;Africa
+2002;Asia;Asia;China;17636873;53008;Asia
+2002;Asia;Asia;Japan;19535243;1108925;Asia
+2002;Europe;NA;Russian Federation;21583;16110;Europe
+2002;Europe;Europe;Bulgaria;51421;66;Europe
+2002;Europe;Europe;Hungary;6000;0;Europe
+2002;Europe;Europe;Poland;169000;262000;Europe
+2002;Europe;Europe;Romania;5000;0;Europe
+2002;Europe;Europe;Slovakia;1350;425;Europe
+2002;Europe;Europe;Ukraine;116900;16410;Europe
+2002;Oceania;Oceania;Fiji;550;0;Oceania
+2002;Oceania;Oceania;New Caledonia;2914003;0;Oceania
+2002;Oceania;Oceania;Papua New Guinea;24898;0;Oceania
+2002;Africa;Africa;Cameroon;35520;0;Africa
+2002;Africa;Africa;Gabon;3358;0;Africa
+2002;Africa;Africa;Algeria;23146;0;Africa
+2002;Africa;Africa;Morocco;150411;0;Africa
+2002;Africa;Africa;Tunisia;17967;0;Africa
+2002;Americas;Americas;Canada;20234338;374801;Americas
+2002;Americas;Americas;Greenland;706;0;Americas
+2002;Europe;Europe;Denmark;2303378;1007531677;Europe
+2002;Europe;Europe;Estonia;1718367;0;Europe
+2002;Europe;Europe;Finland;41310;5484;Europe
+2002;Europe;Europe;Iceland;2411;0;Europe
+2002;Europe;Europe;Ireland;77355;24320;Europe
+2002;Europe;Europe;Latvia;23338140;0;Europe
+2002;Europe;Europe;Lithuania;17505;0;Europe
+2002;Europe;Europe;Norway;25830966;0;Europe
+2002;Europe;Europe;Sweden;8959367;617348;Europe
+2002;Europe;Europe;United Kingdom;2230868;3827535;Europe
+2002;Americas;Americas;Argentina;554470;0;Americas
+2002;Americas;Americas;Brazil;421060;1805302;Americas
+2002;Americas;Americas;Chile;5965;0;Americas
+2002;Americas;Americas;Colombia;0;569754;Americas
+2002;Americas;Americas;Guyana;21687;0;Americas
+2002;Americas;Americas;Uruguay;36051;903;Americas
+2002;Asia;NA;Brunei Darussalam;25361;1217;Asia
+2002;Asia;NA;Viet Nam;174604;0;Asia
+2002;Asia;Asia;Indonesia;23958;5444;Asia
+2002;Asia;Asia;Malaysia;29302;0;Asia
+2002;Asia;Asia;Philippines;0;14149;Asia
+2002;Asia;Asia;Singapore;1313059;740401;Asia
+2002;Asia;Asia;Thailand;53504;205;Asia
+2002;Africa;Africa;Botswana;45777;5678;Africa
+2002;Africa;Africa;Namibia;16178;18480;Africa
+2002;Africa;Africa;South Africa;2145648;29596;Africa
+2002;Asia;Asia;India;1101894;1485208;Asia
+2002;Asia;Asia;Sri Lanka;30;0;Asia
+2002;Europe;Europe;Albania;13001;0;Europe
+2002;Europe;Europe;Croatia;17519;759;Europe
+2002;Europe;Europe;Greece;957556;0;Europe
+2002;Europe;Europe;Italy;316533;1451284;Europe
+2002;Europe;Europe;Malta;335;0;Europe
+2002;Europe;Europe;Portugal;4080607;0;Europe
+2002;Europe;Europe;Slovenia;18718;1627;Europe
+2002;Europe;Europe;Spain;2476820;3117156;Europe
+2002;Africa;NA;Cabo Verde;1369;0;Africa
+2002;Africa;NA;Gambia;34128;0;Africa
+2002;Africa;Africa;Burkina Faso;174;0;Africa
+2002;Africa;Africa;Mauritania;8548;0;Africa
+2002;Africa;Africa;Niger;338;208;Africa
+2002;Africa;Africa;Nigeria;90355;0;Africa
+2002;Africa;Africa;Togo;12570;0;Africa
+2002;Asia;Asia;Bahrain;120258;155167;Asia
+2002;Asia;Asia;Cyprus;1417;0;Asia
+2002;Asia;Asia;Israel;2000;0;Asia
+2002;Asia;Asia;Lebanon;53968;0;Asia
+2002;Asia;Asia;Oman;28315;0;Asia
+2002;Asia;Asia;Saudi Arabia;31467;0;Asia
+2002;Asia;Asia;Turkey;1149;0;Asia
+2002;Europe;Europe;Austria;9041010;86273;Europe
+2002;Europe;Europe;Belgium;263275;2299998;Europe
+2002;Europe;Europe;France;226480;936532;Europe
+2002;Europe;Europe;Germany;448323000;20739000;Europe
+2002;Europe;Europe;Luxembourg;103961;0;Europe
+2002;Europe;Europe;Netherlands;52117458;797405;Europe
+2002;Europe;Europe;Switzerland;25987;14362;Europe
+2003;NA;NA;China, Hong Kong SAR;13576;72546;Asia
+2003;NA;NA;Fmr Sudan;22750;0;Africa
+2003;NA;NA;Iran;2471785;0;Asia
+2003;NA;NA;Mozambique;2202;814;Africa
+2003;NA;NA;Other Asia, nes;49500;35700;Asia
+2003;NA;NA;Rep. of Korea;6485870;23344;Asia
+2003;NA;NA;Venezuela;526;0;Americas
+2003;NA;Americas;Dominican Rep.;19254;0;Americas
+2003;NA;Africa;United Rep. of Tanzania;660099;0;Africa
+2003;NA;Europe;Czechia;4890053;99433;Europe
+2003;NA;Americas;USA;379673979;1545682;Americas
+2003;NA;Europe;Faeroe Isds;1275630;0;Europe
+2003;NA;Africa;Eswatini;142717;66002;Africa
+2003;NA;Europe;Bosnia Herzegovina;2567;0;Europe
+2003;Oceania;Oceania;Australia;10274014;1498314;Oceania
+2003;Oceania;Oceania;New Zealand;12581010;13209;Oceania
+2003;Americas;NA;Bahamas;1287;0;Americas
+2003;Americas;NA;Saint Kitts and Nevis;500;0;Americas
+2003;Americas;NA;Saint Lucia;1683;0;Americas
+2003;Americas;NA;Saint Vincent and the Grenadines;383;0;Americas
+2003;Americas;Americas;Barbados;6132;0;Americas
+2003;Americas;Americas;Cuba;2760;0;Americas
+2003;Americas;Americas;Dominica;2327;0;Americas
+2003;Americas;Americas;Grenada;1431;0;Americas
+2003;Americas;Americas;Trinidad and Tobago;9362;24495;Americas
+2003;Americas;Americas;Belize;10113;2743;Americas
+2003;Americas;Americas;Costa Rica;11180;0;Americas
+2003;Americas;Americas;Guatemala;198;0;Americas
+2003;Americas;Americas;Honduras;93478;0;Americas
+2003;Americas;Americas;Mexico;51089;0;Americas
+2003;Americas;Americas;Nicaragua;13316;0;Americas
+2003;Americas;Americas;Panama;398;0;Americas
+2003;Asia;Asia;Kazakhstan;54500;0;Asia
+2003;Africa;Africa;Eritrea;769;0;Africa
+2003;Africa;Africa;Ethiopia;4343;0;Africa
+2003;Africa;Africa;Kenya;24198;5891;Africa
+2003;Africa;Africa;Madagascar;1832;0;Africa
+2003;Africa;Africa;Malawi;1605;0;Africa
+2003;Africa;Africa;Uganda;73296;0;Africa
+2003;Africa;Africa;Zimbabwe;2;15209;Africa
+2003;Asia;Asia;China;31297102;15879;Asia
+2003;Asia;Asia;Japan;100274981;1253958;Asia
+2003;Asia;Asia;Mongolia;18008;0;Asia
+2003;Europe;NA;Belarus;35700;900;Europe
+2003;Europe;NA;Russian Federation;145796;20689;Europe
+2003;Europe;Europe;Bulgaria;86354;9634;Europe
+2003;Europe;Europe;Hungary;1083000;0;Europe
+2003;Europe;Europe;Poland;843000;3328000;Europe
+2003;Europe;Europe;Romania;532808;0;Europe
+2003;Europe;Europe;Slovakia;2713735;0;Europe
+2003;Europe;Europe;Ukraine;2757800;63150;Europe
+2003;Oceania;Oceania;Fiji;65876;0;Oceania
+2003;Oceania;Oceania;New Caledonia;6641600;0;Oceania
+2003;Africa;Africa;Cameroon;24676;0;Africa
+2003;Africa;Africa;Gabon;163189;0;Africa
+2003;Africa;Africa;Morocco;54053;0;Africa
+2003;Africa;Africa;Tunisia;91484;68801;Africa
+2003;Americas;Americas;Canada;31260807;430448;Americas
+2003;Americas;Americas;Greenland;7772;0;Americas
+2003;Europe;Europe;Denmark;25887;964967579;Europe
+2003;Europe;Europe;Estonia;107052;0;Europe
+2003;Europe;Europe;Finland;966582;313651;Europe
+2003;Europe;Europe;Iceland;12810;0;Europe
+2003;Europe;Europe;Ireland;106314;105589;Europe
+2003;Europe;Europe;Latvia;96004;0;Europe
+2003;Europe;Europe;Lithuania;48872;4432;Europe
+2003;Europe;Europe;Norway;1180037;178159;Europe
+2003;Europe;Europe;Sweden;492565;683528;Europe
+2003;Europe;Europe;United Kingdom;86871;18154482;Europe
+2003;Americas;Americas;Argentina;7618;3526;Americas
+2003;Americas;Americas;Brazil;1996946;0;Americas
+2003;Americas;Americas;Chile;5301;0;Americas
+2003;Americas;Americas;Colombia;0;1530;Americas
+2003;Americas;Americas;Guyana;21435;0;Americas
+2003;Americas;Americas;Peru;497;2100;Americas
+2003;Americas;Americas;Uruguay;38573;6330;Americas
+2003;Asia;NA;Brunei Darussalam;28106;6104;Asia
+2003;Asia;Asia;Indonesia;400945;71325;Asia
+2003;Asia;Asia;Malaysia;7328;22955;Asia
+2003;Asia;Asia;Philippines;0;1452;Asia
+2003;Asia;Asia;Singapore;89171;1224941;Asia
+2003;Asia;Asia;Thailand;1040410;2237;Asia
+2003;Africa;Africa;Botswana;87155;19444;Africa
+2003;Africa;Africa;Namibia;9242;93503;Africa
+2003;Africa;Africa;South Africa;319050;33280;Africa
+2003;Asia;Asia;Bangladesh;154102;0;Asia
+2003;Asia;Asia;India;846841;787660;Asia
+2003;Asia;Asia;Maldives;4162;0;Asia
+2003;Asia;Asia;Pakistan;81413;0;Asia
+2003;Asia;Asia;Sri Lanka;34043;0;Asia
+2003;Europe;Europe;Albania;16491;2547;Europe
+2003;Europe;Europe;Croatia;57630;2224;Europe
+2003;Europe;Europe;Greece;6454108;3104;Europe
+2003;Europe;Europe;Italy;4064637;1436903;Europe
+2003;Europe;Europe;Malta;1410;0;Europe
+2003;Europe;Europe;Portugal;39571319;21020;Europe
+2003;Europe;Europe;Slovenia;5999;14503;Europe
+2003;Europe;Europe;Spain;11070242;45622524;Europe
+2003;Africa;NA;Cabo Verde;605;0;Africa
+2003;Africa;NA;Gambia;2562;0;Africa
+2003;Africa;Africa;Ghana;14567;0;Africa
+2003;Africa;Africa;Niger;139;0;Africa
+2003;Africa;Africa;Nigeria;370359;0;Africa
+2003;Africa;Africa;Senegal;9362;0;Africa
+2003;Africa;Africa;Togo;14701;4385594;Africa
+2003;Asia;Asia;Armenia;25363;0;Asia
+2003;Asia;Asia;Azerbaijan;1985;0;Asia
+2003;Asia;Asia;Bahrain;164731;0;Asia
+2003;Asia;Asia;Cyprus;10920;0;Asia
+2003;Asia;Asia;Saudi Arabia;38133;0;Asia
+2003;Asia;Asia;Turkey;728422;6780;Asia
+2003;Europe;Europe;Austria;32502271;1490208;Europe
+2003;Europe;Europe;Belgium;6086753;2223174;Europe
+2003;Europe;Europe;France;382268;1213356;Europe
+2003;Europe;Europe;Germany;319076000;78941000;Europe
+2003;Europe;Europe;Luxembourg;24599;0;Europe
+2003;Europe;Europe;Netherlands;67800205;2150087;Europe
+2003;Europe;Europe;Switzerland;48086;6412;Europe
+2004;NA;NA;China, Hong Kong SAR;12134;12715;Asia
+2004;NA;NA;Fmr Sudan;201929;0;Africa
+2004;NA;NA;Iran;5970496;1426357;Asia
+2004;NA;NA;Mozambique;2997;0;Africa
+2004;NA;NA;Other Asia, nes;2282102;0;Asia
+2004;NA;NA;Rep. of Korea;31466174;3966;Asia
+2004;NA;NA;Venezuela;10870;0;Americas
+2004;NA;Americas;Dominican Rep.;3008;0;Americas
+2004;NA;Africa;United Rep. of Tanzania;1093;0;Africa
+2004;NA;Europe;Czechia;2596819;92206;Europe
+2004;NA;Americas;USA;64062587;25866007;Americas
+2004;NA;Europe;Faeroe Isds;34597;0;Europe
+2004;NA;Africa;Eswatini;409603;26033;Africa
+2004;NA;Europe;Bosnia Herzegovina;61505;0;Europe
+2004;NA;Europe;Serbia and Montenegro;9536;0;Europe
+2004;Oceania;Oceania;Australia;69376324;2065693;Oceania
+2004;Oceania;Oceania;New Zealand;70699983;415759;Oceania
+2004;Americas;NA;Bahamas;6032;0;Americas
+2004;Americas;NA;Saint Kitts and Nevis;667962;0;Americas
+2004;Americas;NA;Saint Lucia;265;0;Americas
+2004;Americas;NA;Saint Vincent and the Grenadines;31;0;Americas
+2004;Americas;Americas;Barbados;1202;0;Americas
+2004;Americas;Americas;Cuba;8073;0;Americas
+2004;Americas;Americas;Dominica;0;101;Americas
+2004;Americas;Americas;Grenada;15441;0;Americas
+2004;Americas;Americas;Jamaica;583;0;Americas
+2004;Americas;Americas;Montserrat;0;3389;Americas
+2004;Americas;Americas;Trinidad and Tobago;76110;22472;Americas
+2004;Americas;Americas;Belize;106036;0;Americas
+2004;Americas;Americas;Costa Rica;7731;0;Americas
+2004;Americas;Americas;El Salvador;2691;0;Americas
+2004;Americas;Americas;Guatemala;1134;0;Americas
+2004;Americas;Americas;Honduras;755;0;Americas
+2004;Americas;Americas;Mexico;136894;159703;Americas
+2004;Americas;Americas;Nicaragua;26090;0;Americas
+2004;Asia;Asia;Kazakhstan;355555;0;Asia
+2004;Africa;Africa;Burundi;36599;0;Africa
+2004;Africa;Africa;Ethiopia;2414;0;Africa
+2004;Africa;Africa;Kenya;2963;0;Africa
+2004;Africa;Africa;Madagascar;73900;0;Africa
+2004;Africa;Africa;Malawi;252;0;Africa
+2004;Africa;Africa;Mauritius;908;1223;Africa
+2004;Africa;Africa;Rwanda;4164;0;Africa
+2004;Africa;Africa;Uganda;11992;0;Africa
+2004;Africa;Africa;Zambia;4929;0;Africa
+2004;Africa;Africa;Zimbabwe;0;28847;Africa
+2004;Asia;Asia;China;93294869;196656;Asia
+2004;Asia;Asia;Japan;112565526;359971;Asia
+2004;Asia;Asia;Mongolia;18682;0;Asia
+2004;Europe;NA;Belarus;3100;2700;Europe
+2004;Europe;NA;Russian Federation;194388;28992;Europe
+2004;Europe;Europe;Bulgaria;819311;0;Europe
+2004;Europe;Europe;Hungary;44000;0;Europe
+2004;Europe;Europe;Poland;435578;1011985;Europe
+2004;Europe;Europe;Romania;191453;0;Europe
+2004;Europe;Europe;Slovakia;189076;0;Europe
+2004;Europe;Europe;Ukraine;877120;11800;Europe
+2004;Oceania;Oceania;New Caledonia;16680812;13678;Oceania
+2004;Oceania;Oceania;Papua New Guinea;558;0;Oceania
+2004;Africa;Africa;Cameroon;14260;13585;Africa
+2004;Africa;Africa;Algeria;1056;0;Africa
+2004;Africa;Africa;Tunisia;79289;0;Africa
+2004;Americas;Americas;Canada;93660273;32639;Americas
+2004;Europe;Europe;Denmark;1067;887602130;Europe
+2004;Europe;Europe;Estonia;4538138;657;Europe
+2004;Europe;Europe;Finland;27711;0;Europe
+2004;Europe;Europe;Iceland;2921;0;Europe
+2004;Europe;Europe;Ireland;93777;32190;Europe
+2004;Europe;Europe;Latvia;1791;0;Europe
+2004;Europe;Europe;Lithuania;5763123;11218;Europe
+2004;Europe;Europe;Norway;71034;609;Europe
+2004;Europe;Europe;Sweden;12193375;80432;Europe
+2004;Europe;Europe;United Kingdom;12090790;3913768;Europe
+2004;Oceania;Oceania;French Polynesia;5732;0;Oceania
+2004;Americas;Americas;Argentina;594913;6631;Americas
+2004;Americas;Americas;Brazil;3942646;1195897;Americas
+2004;Americas;Americas;Chile;69298;4835;Americas
+2004;Americas;Americas;Colombia;3835;0;Americas
+2004;Americas;Americas;Guyana;4041;0;Americas
+2004;Americas;Americas;Paraguay;3325;0;Americas
+2004;Americas;Americas;Uruguay;19453;0;Americas
+2004;Asia;NA;Brunei Darussalam;36834;6882;Asia
+2004;Asia;NA;Timor-Leste;31;0;Asia
+2004;Asia;NA;Viet Nam;3459668;13489159;Asia
+2004;Asia;Asia;Cambodia;70733;0;Asia
+2004;Asia;Asia;Indonesia;5061;45177;Asia
+2004;Asia;Asia;Malaysia;47739;483481;Asia
+2004;Asia;Asia;Philippines;52096;194384;Asia
+2004;Asia;Asia;Singapore;130852;1198557;Asia
+2004;Asia;Asia;Thailand;245124;274039;Asia
+2004;Africa;Africa;Botswana;63019;10264;Africa
+2004;Africa;Africa;Namibia;20729;152950;Africa
+2004;Africa;Africa;South Africa;45418;79145;Africa
+2004;Asia;Asia;Bangladesh;911132;0;Asia
+2004;Asia;Asia;India;2128838;1177053;Asia
+2004;Asia;Asia;Pakistan;67416;0;Asia
+2004;Asia;Asia;Sri Lanka;123102;0;Asia
+2004;Europe;Europe;Albania;9694;0;Europe
+2004;Europe;Europe;Croatia;3779630;2360;Europe
+2004;Europe;Europe;Greece;27863534;0;Europe
+2004;Europe;Europe;Italy;40993;611755;Europe
+2004;Europe;Europe;Malta;462;5024;Europe
+2004;Europe;Europe;Portugal;123869809;6264;Europe
+2004;Europe;Europe;Slovenia;40773;0;Europe
+2004;Europe;Europe;Spain;8559980;36627925;Europe
+2004;Africa;NA;Cabo Verde;26215;0;Africa
+2004;Africa;NA;Gambia;4439;0;Africa
+2004;Africa;Africa;Benin;275;0;Africa
+2004;Africa;Africa;Burkina Faso;190;0;Africa
+2004;Africa;Africa;Guinea;10113;0;Africa
+2004;Africa;Africa;Niger;189;0;Africa
+2004;Africa;Africa;Senegal;3209;45639;Africa
+2004;Africa;Africa;Togo;42950;4964;Africa
+2004;Asia;Asia;Armenia;322700;0;Asia
+2004;Asia;Asia;Azerbaijan;3645;0;Asia
+2004;Asia;Asia;Bahrain;76069;0;Asia
+2004;Asia;Asia;Cyprus;6523;0;Asia
+2004;Asia;Asia;Georgia;2355;0;Asia
+2004;Asia;Asia;Israel;148000;0;Asia
+2004;Asia;Asia;Lebanon;24000;136000;Asia
+2004;Asia;Asia;Oman;94296;0;Asia
+2004;Asia;Asia;Saudi Arabia;75200;0;Asia
+2004;Asia;Asia;Turkey;5914546;8780;Asia
+2004;Asia;Asia;Yemen;115454;0;Asia
+2004;Europe;Europe;Austria;2450107;4279489;Europe
+2004;Europe;Europe;Belgium;118707;1638313;Europe
+2004;Europe;Europe;France;14922296;2069455;Europe
+2004;Europe;Europe;Germany;376084000;97434000;Europe
+2004;Europe;Europe;Luxembourg;35043;2531;Europe
+2004;Europe;Europe;Netherlands;44075052;15518895;Europe
+2004;Europe;Europe;Switzerland;3745160;9519;Europe
+2005;NA;NA;Bolivia (Plurinational State of);2400;0;Americas
+2005;NA;NA;China, Hong Kong SAR;311620;200319;Asia
+2005;NA;NA;Côte d'Ivoire;0;985;Africa
+2005;NA;NA;FS Micronesia;919;0;Oceania
+2005;NA;NA;Fmr Sudan;811448;0;Africa
+2005;NA;NA;Iran;2268254;268211;Asia
+2005;NA;NA;Mozambique;623;0;Africa
+2005;NA;NA;Neth. Antilles;23349;0;Oceania
+2005;NA;NA;North Macedonia;2785;0;Europe
+2005;NA;NA;Other Asia, nes;67933866;27071;Asia
+2005;NA;NA;Rep. of Korea;22932235;659;Asia
+2005;NA;NA;Venezuela;2350;0;Americas
+2005;NA;Africa;United Rep. of Tanzania;1167;0;Africa
+2005;NA;Europe;Czechia;1306944;68375;Europe
+2005;NA;Americas;USA;503797928;3626370;Americas
+2005;NA;Europe;Faeroe Isds;1435650;0;Europe
+2005;NA;Africa;Eswatini;240160;9219;Africa
+2005;NA;Europe;Bosnia Herzegovina;9390;0;Europe
+2005;Oceania;Oceania;Australia;136280379;32034643;Oceania
+2005;Oceania;Oceania;New Zealand;1042802;301535;Oceania
+2005;Americas;NA;Bahamas;336;0;Americas
+2005;Americas;NA;Saint Kitts and Nevis;1044438;294815;Americas
+2005;Americas;NA;Saint Lucia;5921;3019;Americas
+2005;Americas;NA;Saint Vincent and the Grenadines;2180;0;Americas
+2005;Americas;Americas;Antigua and Barbuda;2681;130;Americas
+2005;Americas;Americas;Barbados;3712;0;Americas
+2005;Americas;Americas;Cuba;417594;0;Americas
+2005;Americas;Americas;Grenada;6587;2001;Americas
+2005;Americas;Americas;Jamaica;6104;0;Americas
+2005;Americas;Americas;Trinidad and Tobago;6994;25169;Americas
+2005;Americas;Americas;Belize;7696;0;Americas
+2005;Americas;Americas;Costa Rica;16224;0;Americas
+2005;Americas;Americas;Guatemala;12859;0;Americas
+2005;Americas;Americas;Honduras;101029;0;Americas
+2005;Americas;Americas;Mexico;156736;4463;Americas
+2005;Americas;Americas;Nicaragua;25200;0;Americas
+2005;Asia;Asia;Kazakhstan;9323;0;Asia
+2005;Africa;Africa;Ethiopia;191283;0;Africa
+2005;Africa;Africa;Kenya;105160;3460;Africa
+2005;Africa;Africa;Madagascar;2329;0;Africa
+2005;Africa;Africa;Mauritius;161;0;Africa
+2005;Africa;Africa;Mayotte;119;0;Africa
+2005;Africa;Africa;Rwanda;3072;0;Africa
+2005;Africa;Africa;Uganda;6969;0;Africa
+2005;Africa;Africa;Zambia;4461;0;Africa
+2005;Africa;Africa;Zimbabwe;0;5009;Africa
+2005;Asia;Asia;China;211484547;404185;Asia
+2005;Asia;Asia;Japan;43841810;8476414;Asia
+2005;Asia;Asia;Mongolia;145;0;Asia
+2005;Europe;NA;Russian Federation;22074;53721;Europe
+2005;Europe;Europe;Bulgaria;3471790;0;Europe
+2005;Europe;Europe;Hungary;2855000;3000;Europe
+2005;Europe;Europe;Poland;382595;1555;Europe
+2005;Europe;Europe;Romania;271812;11376;Europe
+2005;Europe;Europe;Slovakia;13200;6281;Europe
+2005;Europe;Europe;Ukraine;1330928;27610;Europe
+2005;Oceania;Oceania;Fiji;1237273;0;Oceania
+2005;Oceania;Oceania;New Caledonia;1029331;19;Oceania
+2005;Oceania;Oceania;Kiribati;9402;0;Oceania
+2005;Africa;Africa;Cameroon;35574;0;Africa
+2005;Africa;Africa;Algeria;284813;0;Africa
+2005;Africa;Africa;Morocco;96472;0;Africa
+2005;Africa;Africa;Tunisia;28733;0;Africa
+2005;Americas;Americas;Canada;41330047;245965;Americas
+2005;Europe;Europe;Denmark;12621;997965025;Europe
+2005;Europe;Europe;Estonia;2775766;865517;Europe
+2005;Europe;Europe;Finland;42401;553918;Europe
+2005;Europe;Europe;Iceland;8691;0;Europe
+2005;Europe;Europe;Ireland;74640;808;Europe
+2005;Europe;Europe;Latvia;756;0;Europe
+2005;Europe;Europe;Lithuania;68755;0;Europe
+2005;Europe;Europe;Norway;1755784;93107;Europe
+2005;Europe;Europe;Sweden;7344499;86011;Europe
+2005;Europe;Europe;United Kingdom;241654623;1611256;Europe
+2005;Oceania;Oceania;French Polynesia;936;0;Oceania
+2005;Americas;Americas;Argentina;1188427;2862;Americas
+2005;Americas;Americas;Brazil;5601845;1437569;Americas
+2005;Americas;Americas;Chile;83356;0;Americas
+2005;Americas;Americas;Colombia;24973;0;Americas
+2005;Americas;Americas;Ecuador;63489;0;Americas
+2005;Americas;Americas;Guyana;39105;0;Americas
+2005;Americas;Americas;Uruguay;64769;0;Americas
+2005;Asia;NA;Timor-Leste;0;151;Asia
+2005;Asia;NA;Viet Nam;2734;37587076;Asia
+2005;Asia;Asia;Cambodia;161891;0;Asia
+2005;Asia;Asia;Indonesia;64448;158842;Asia
+2005;Asia;Asia;Malaysia;279414;60076;Asia
+2005;Asia;Asia;Philippines;58635;6900;Asia
+2005;Asia;Asia;Singapore;82222;2358555;Asia
+2005;Asia;Asia;Thailand;245910;84955;Asia
+2005;Africa;Africa;Botswana;25413;2546;Africa
+2005;Africa;Africa;Namibia;18719;7988;Africa
+2005;Africa;Africa;South Africa;65266;15086;Africa
+2005;Asia;Asia;Bangladesh;172811;0;Asia
+2005;Asia;Asia;India;6037458;23794365;Asia
+2005;Asia;Asia;Maldives;4539;0;Asia
+2005;Asia;Asia;Pakistan;179354;98;Asia
+2005;Asia;Asia;Sri Lanka;2028;0;Asia
+2005;Europe;Europe;Albania;8730;0;Europe
+2005;Europe;Europe;Croatia;11170;2241;Europe
+2005;Europe;Europe;Greece;82905355;272409;Europe
+2005;Europe;Europe;Italy;9334022;12646018;Europe
+2005;Europe;Europe;Malta;257;0;Europe
+2005;Europe;Europe;Portugal;135037089;0;Europe
+2005;Europe;Europe;Slovenia;24332;10131;Europe
+2005;Europe;Europe;Spain;9387411;181657618;Europe
+2005;Africa;NA;Cabo Verde;470;0;Africa
+2005;Africa;NA;Gambia;25438;0;Africa
+2005;Africa;Africa;Burkina Faso;661;0;Africa
+2005;Africa;Africa;Ghana;7760;0;Africa
+2005;Africa;Africa;Guinea;6878;0;Africa
+2005;Africa;Africa;Niger;3786;0;Africa
+2005;Africa;Africa;Senegal;2934;0;Africa
+2005;Africa;Africa;Togo;72771;0;Africa
+2005;Asia;Asia;Armenia;322700;0;Asia
+2005;Asia;Asia;Azerbaijan;37942;0;Asia
+2005;Asia;Asia;Bahrain;380874;0;Asia
+2005;Asia;Asia;Cyprus;50976;505;Asia
+2005;Asia;Asia;Georgia;9100;0;Asia
+2005;Asia;Asia;Israel;10000;0;Asia
+2005;Asia;Asia;Lebanon;0;265000;Asia
+2005;Asia;Asia;Oman;562892;0;Asia
+2005;Asia;Asia;Qatar;28666;133717;Asia
+2005;Asia;Asia;Saudi Arabia;158527;0;Asia
+2005;Asia;Asia;Turkey;73971;63988;Asia
+2005;Asia;Asia;United Arab Emirates;40743;1601;Asia
+2005;Asia;Asia;Yemen;1950023;5878;Asia
+2005;Europe;Europe;Austria;161505985;467932;Europe
+2005;Europe;Europe;Belgium;21226926;14100187;Europe
+2005;Europe;Europe;France;73903593;2716181;Europe
+2005;Europe;Europe;Germany;365688000;590279000;Europe
+2005;Europe;Europe;Luxembourg;26701;0;Europe
+2005;Europe;Europe;Netherlands;65314907;498711;Europe
+2005;Europe;Europe;Switzerland;3004632;861;Europe
+2006;NA;NA;Bolivia (Plurinational State of);58366;0;Americas
+2006;NA;NA;China, Hong Kong SAR;56680;157848;Asia
+2006;NA;NA;China, Macao SAR;5799;0;Asia
+2006;NA;NA;Côte d'Ivoire;1120;0;Africa
+2006;NA;NA;Fmr Sudan;174690;0;Africa
+2006;NA;NA;Neth. Antilles;37404;0;Oceania
+2006;NA;NA;North Macedonia;5043;0;Europe
+2006;NA;NA;Other Asia, nes;49336845;183573;Asia
+2006;NA;NA;Rep. of Korea;59234147;380404;Asia
+2006;NA;Americas;Dominican Rep.;21919;0;Americas
+2006;NA;Africa;United Rep. of Tanzania;2102;0;Africa
+2006;NA;Europe;Czechia;5552655;33035;Europe
+2006;NA;Americas;USA;1279997871;83309704;Americas
+2006;NA;Europe;Faeroe Isds;11898;0;Europe
+2006;NA;Africa;Eswatini;44743;2968;Africa
+2006;NA;Europe;Bosnia Herzegovina;53287;286;Europe
+2006;Oceania;Oceania;Australia;48978293;67192624;Oceania
+2006;Oceania;Oceania;New Zealand;37464136;99764;Oceania
+2006;Americas;NA;Bahamas;1570;0;Americas
+2006;Americas;NA;Saint Kitts and Nevis;8744;3,00E+05;Americas
+2006;Americas;NA;Saint Lucia;3366;0;Americas
+2006;Americas;NA;Saint Vincent and the Grenadines;874;0;Americas
+2006;Americas;Americas;Antigua and Barbuda;5757;0;Americas
+2006;Americas;Americas;Barbados;3855;0;Americas
+2006;Americas;Americas;Cuba;1278411;0;Americas
+2006;Americas;Americas;Dominica;1916;0;Americas
+2006;Americas;Americas;Grenada;8116;2239;Americas
+2006;Americas;Americas;Jamaica;37636;0;Americas
+2006;Americas;Americas;Montserrat;1863;0;Americas
+2006;Americas;Americas;Trinidad and Tobago;4268;6735;Americas
+2006;Americas;Americas;Belize;16399;0;Americas
+2006;Americas;Americas;Costa Rica;126680;0;Americas
+2006;Americas;Americas;Honduras;394884;0;Americas
+2006;Americas;Americas;Mexico;85306378;16259;Americas
+2006;Americas;Americas;Nicaragua;11847;0;Americas
+2006;Americas;Americas;Panama;837;18695;Americas
+2006;Asia;Asia;Kazakhstan;634284;0;Asia
+2006;Africa;Africa;Burundi;1048;0;Africa
+2006;Africa;Africa;Ethiopia;13204;0;Africa
+2006;Africa;Africa;Kenya;73661;788;Africa
+2006;Africa;Africa;Madagascar;19138;0;Africa
+2006;Africa;Africa;Malawi;8797;0;Africa
+2006;Africa;Africa;Mauritius;2067;0;Africa
+2006;Africa;Africa;Rwanda;12;0;Africa
+2006;Africa;Africa;Uganda;4610;0;Africa
+2006;Africa;Africa;Zambia;278;0;Africa
+2006;Africa;Africa;Zimbabwe;3170;3692;Africa
+2006;Asia;Asia;China;257089298;3188178;Asia
+2006;Asia;Asia;Japan;232920424;142839376;Asia
+2006;Asia;Asia;Mongolia;250599;0;Asia
+2006;Europe;NA;Belarus;0;1800;Europe
+2006;Europe;NA;Russian Federation;479175;63336;Europe
+2006;Europe;Europe;Bulgaria;7045734;0;Europe
+2006;Europe;Europe;Hungary;2425000;3000;Europe
+2006;Europe;Europe;Poland;2246347;276521;Europe
+2006;Europe;Europe;Romania;1714179;20290;Europe
+2006;Europe;Europe;Slovakia;11942;0;Europe
+2006;Europe;Europe;Ukraine;375840;183639;Europe
+2006;Oceania;Oceania;Fiji;1000997;0;Oceania
+2006;Oceania;Oceania;New Caledonia;7698730;54;Oceania
+2006;Oceania;Oceania;Vanuatu;32048;0;Oceania
+2006;Africa;Africa;Cameroon;9076;0;Africa
+2006;Africa;Africa;Gabon;383;0;Africa
+2006;Africa;Africa;Algeria;1112;0;Africa
+2006;Africa;Africa;Morocco;28740067;715;Africa
+2006;Africa;Africa;Tunisia;1912;0;Africa
+2006;Americas;Americas;Canada;183310315;1324692;Americas
+2006;Europe;Europe;Denmark;22289;1326887275;Europe
+2006;Europe;Europe;Estonia;18072430;2482847;Europe
+2006;Europe;Europe;Finland;107563;45997;Europe
+2006;Europe;Europe;Iceland;4858;0;Europe
+2006;Europe;Europe;Ireland;255954;17675;Europe
+2006;Europe;Europe;Latvia;51371;0;Europe
+2006;Europe;Europe;Lithuania;12898543;0;Europe
+2006;Europe;Europe;Norway;8978;18216;Europe
+2006;Europe;Europe;Sweden;24287099;401295;Europe
+2006;Europe;Europe;United Kingdom;167097688;3731352;Europe
+2006;Oceania;Oceania;French Polynesia;32378;0;Oceania
+2006;Americas;Americas;Argentina;22538;12045;Americas
+2006;Americas;Americas;Brazil;61727960;534047;Americas
+2006;Americas;Americas;Chile;151849;61283;Americas
+2006;Americas;Americas;Colombia;24681;0;Americas
+2006;Americas;Americas;Guyana;57046;0;Americas
+2006;Americas;Americas;Peru;4357;0;Americas
+2006;Americas;Americas;Uruguay;110834;0;Americas
+2006;Asia;NA;Brunei Darussalam;164569;0;Asia
+2006;Asia;NA;Viet Nam;32692;78375430;Asia
+2006;Asia;Asia;Cambodia;5905111;0;Asia
+2006;Asia;Asia;Indonesia;10472;0;Asia
+2006;Asia;Asia;Malaysia;593592;1077260;Asia
+2006;Asia;Asia;Philippines;0;91226;Asia
+2006;Asia;Asia;Singapore;446052;2419621;Asia
+2006;Asia;Asia;Thailand;255255;28169;Asia
+2006;Africa;Africa;Botswana;5884;7178;Africa
+2006;Africa;Africa;Namibia;13214;258;Africa
+2006;Africa;Africa;South Africa;56115;82974;Africa
+2006;Asia;Asia;Bangladesh;18236;0;Asia
+2006;Asia;Asia;India;4941759;199041328;Asia
+2006;Asia;Asia;Maldives;6478;0;Asia
+2006;Asia;Asia;Pakistan;20021;0;Asia
+2006;Asia;Asia;Sri Lanka;15793;0;Asia
+2006;Europe;Europe;Albania;3987;0;Europe
+2006;Europe;Europe;Andorra;582;0;Europe
+2006;Europe;Europe;Croatia;9913353;4978;Europe
+2006;Europe;Europe;Greece;105870383;258074;Europe
+2006;Europe;Europe;Italy;103040182;158759798;Europe
+2006;Europe;Europe;Malta;1899;0;Europe
+2006;Europe;Europe;Portugal;118793105;0;Europe
+2006;Europe;Europe;Serbia;1670;870;Europe
+2006;Europe;Europe;Slovenia;3693;0;Europe
+2006;Europe;Europe;Spain;26756963;326999918;Europe
+2006;Africa;NA;Gambia;14971;0;Africa
+2006;Africa;Africa;Guinea;944;0;Africa
+2006;Africa;Africa;Mauritania;24888;0;Africa
+2006;Africa;Africa;Nigeria;1007;0;Africa
+2006;Africa;Africa;Senegal;27861;0;Africa
+2006;Asia;Asia;Bahrain;49082;0;Asia
+2006;Asia;Asia;Cyprus;20105;0;Asia
+2006;Asia;Asia;Israel;11000;0;Asia
+2006;Asia;Asia;Jordan;1887;0;Asia
+2006;Asia;Asia;Kuwait;440940;30832;Asia
+2006;Asia;Asia;Lebanon;1143;2735;Asia
+2006;Asia;Asia;Oman;5588863;0;Asia
+2006;Asia;Asia;Qatar;379561;0;Asia
+2006;Asia;Asia;Saudi Arabia;1153539;0;Asia
+2006;Asia;Asia;Turkey;54345070;1500;Asia
+2006;Asia;Asia;Yemen;84881;149809;Asia
+2006;Europe;Europe;Austria;144889573;768469;Europe
+2006;Europe;Europe;Belgium;56665921;2181444;Europe
+2006;Europe;Europe;France;151854737;3951812;Europe
+2006;Europe;Europe;Germany;637542000;831517000;Europe
+2006;Europe;Europe;Luxembourg;24510;0;Europe
+2006;Europe;Europe;Netherlands;71116537;3240105;Europe
+2006;Europe;Europe;Switzerland;28767;448;Europe
+2007;NA;NA;Bolivia (Plurinational State of);23721;0;Americas
+2007;NA;NA;China, Hong Kong SAR;16815;107555;Asia
+2007;NA;NA;Fmr Sudan;9013321;0;Africa
+2007;NA;NA;Neth. Antilles;53532;0;Oceania
+2007;NA;NA;North Macedonia;4850;0;Europe
+2007;NA;NA;Other Asia, nes;123638865;38305;Asia
+2007;NA;NA;Rep. of Korea;33624725;194164;Asia
+2007;NA;NA;State of Palestine;21210;0;Asia
+2007;NA;NA;Venezuela;84776;0;Americas
+2007;NA;Americas;Dominican Rep.;12963;0;Americas
+2007;NA;Africa;United Rep. of Tanzania;4443;304;Africa
+2007;NA;Europe;Czechia;872432;2246423;Europe
+2007;NA;Americas;USA;2365069550;14157874;Americas
+2007;NA;Africa;Eswatini;142803;1549;Africa
+2007;NA;Europe;Bosnia Herzegovina;1635;0;Europe
+2007;Oceania;Oceania;Australia;166468159;37334970;Oceania
+2007;Oceania;Oceania;New Zealand;22894564;311731;Oceania
+2007;Americas;NA;Bahamas;3480;0;Americas
+2007;Americas;NA;Saint Kitts and Nevis;1864;0;Americas
+2007;Americas;NA;Saint Lucia;1951;0;Americas
+2007;Americas;NA;Saint Vincent and the Grenadines;191;0;Americas
+2007;Americas;Americas;Antigua and Barbuda;5631;8626;Americas
+2007;Americas;Americas;Dominica;66;0;Americas
+2007;Americas;Americas;Grenada;0;741;Americas
+2007;Americas;Americas;Jamaica;5766;0;Americas
+2007;Americas;Americas;Montserrat;0;1667;Americas
+2007;Americas;Americas;Trinidad and Tobago;3106;17616;Americas
+2007;Americas;Americas;Belize;7052;0;Americas
+2007;Americas;Americas;Costa Rica;11338;0;Americas
+2007;Americas;Americas;Guatemala;816;0;Americas
+2007;Americas;Americas;Honduras;1310;0;Americas
+2007;Americas;Americas;Mexico;17051483;6726;Americas
+2007;Americas;Americas;Nicaragua;62356;0;Americas
+2007;Americas;Americas;Panama;14484;16030;Americas
+2007;Asia;Asia;Kazakhstan;78192;0;Asia
+2007;Asia;Asia;Kyrgyzstan;8539;0;Asia
+2007;Africa;Africa;Ethiopia;15;0;Africa
+2007;Africa;Africa;Kenya;343132;42245;Africa
+2007;Africa;Africa;Madagascar;19121;0;Africa
+2007;Africa;Africa;Malawi;42524;66002;Africa
+2007;Africa;Africa;Mauritius;2227;0;Africa
+2007;Africa;Africa;Rwanda;1333;1096;Africa
+2007;Africa;Africa;Uganda;3481;0;Africa
+2007;Africa;Africa;Zambia;904;0;Africa
+2007;Africa;Africa;Zimbabwe;29757;6838;Africa
+2007;Asia;Asia;China;371956372;78019421;Asia
+2007;Asia;Asia;Japan;62534094;354009471;Asia
+2007;Asia;Asia;Mongolia;948147;0;Asia
+2007;Europe;NA;Belarus;116200;0;Europe
+2007;Europe;NA;Russian Federation;938617;25834;Europe
+2007;Europe;Europe;Bulgaria;36965386;0;Europe
+2007;Europe;Europe;Hungary;40801000;0;Europe
+2007;Europe;Europe;Poland;21102018;90978;Europe
+2007;Europe;Europe;Romania;2821977;0;Europe
+2007;Europe;Europe;Slovakia;150486;0;Europe
+2007;Europe;Europe;Ukraine;62305;11705;Europe
+2007;Oceania;Oceania;Fiji;0;38912;Oceania
+2007;Oceania;Oceania;New Caledonia;6169721;0;Oceania
+2007;Oceania;Oceania;Vanuatu;593735;0;Oceania
+2007;Africa;Africa;Angola;5390330;0;Africa
+2007;Africa;Africa;Congo;5779;0;Africa
+2007;Africa;Africa;Algeria;3057;0;Africa
+2007;Africa;Africa;Libya;81984;0;Africa
+2007;Africa;Africa;Morocco;343498;0;Africa
+2007;Africa;Africa;Tunisia;18187;0;Africa
+2007;Americas;Americas;Canada;108855053;2495714;Americas
+2007;Americas;Americas;Greenland;320917;0;Americas
+2007;Europe;Europe;Denmark;0;1827963138;Europe
+2007;Europe;Europe;Estonia;6062985;2071375;Europe
+2007;Europe;Europe;Finland;192067;433707;Europe
+2007;Europe;Europe;Iceland;22871;0;Europe
+2007;Europe;Europe;Ireland;880447;125;Europe
+2007;Europe;Europe;Latvia;4381;0;Europe
+2007;Europe;Europe;Lithuania;2833882;0;Europe
+2007;Europe;Europe;Norway;191542;10320;Europe
+2007;Europe;Europe;Sweden;23219574;855370;Europe
+2007;Europe;Europe;United Kingdom;123383054;15270510;Europe
+2007;Oceania;Oceania;French Polynesia;4942;0;Oceania
+2007;Americas;Americas;Argentina;2430993;1903;Americas
+2007;Americas;Americas;Brazil;42320381;1027431;Americas
+2007;Americas;Americas;Chile;982668;0;Americas
+2007;Americas;Americas;Colombia;2110;0;Americas
+2007;Americas;Americas;Ecuador;2656715;0;Americas
+2007;Americas;Americas;Guyana;6179;0;Americas
+2007;Americas;Americas;Uruguay;6911500;0;Americas
+2007;Asia;NA;Brunei Darussalam;13614;6640;Asia
+2007;Asia;NA;Viet Nam;196758;108637480;Asia
+2007;Asia;Asia;Cambodia;593592;100;Asia
+2007;Asia;Asia;Indonesia;31672;62861;Asia
+2007;Asia;Asia;Malaysia;1396372;92033;Asia
+2007;Asia;Asia;Philippines;447822;0;Asia
+2007;Asia;Asia;Singapore;106422;578638;Asia
+2007;Asia;Asia;Thailand;37755809;36500;Asia
+2007;Africa;Africa;Botswana;27586;3036;Africa
+2007;Africa;Africa;Namibia;42787;213;Africa
+2007;Africa;Africa;South Africa;224590;124092;Africa
+2007;Asia;Asia;Bangladesh;370538;0;Asia
+2007;Asia;Asia;Bhutan;4005;0;Asia
+2007;Asia;Asia;India;609859;335817506;Asia
+2007;Asia;Asia;Maldives;11336;0;Asia
+2007;Asia;Asia;Pakistan;19173;0;Asia
+2007;Asia;Asia;Sri Lanka;14264;0;Asia
+2007;Europe;Europe;Croatia;35342;0;Europe
+2007;Europe;Europe;Greece;68543911;5083193;Europe
+2007;Europe;Europe;Italy;210791853;44454144;Europe
+2007;Europe;Europe;Malta;61294;0;Europe
+2007;Europe;Europe;Portugal;181096677;3351234;Europe
+2007;Europe;Europe;Serbia;7874;0;Europe
+2007;Europe;Europe;Slovenia;25648;0;Europe
+2007;Europe;Europe;Spain;264919166;197977299;Europe
+2007;Africa;NA;Cabo Verde;2350;0;Africa
+2007;Africa;NA;Gambia;57262;0;Africa
+2007;Africa;Africa;Ghana;35165;0;Africa
+2007;Africa;Africa;Guinea;68935;0;Africa
+2007;Africa;Africa;Nigeria;334998;0;Africa
+2007;Africa;Africa;Senegal;8049;0;Africa
+2007;Africa;Africa;Togo;21886;0;Africa
+2007;Asia;Asia;Azerbaijan;10805;0;Asia
+2007;Asia;Asia;Bahrain;69433;0;Asia
+2007;Asia;Asia;Cyprus;21952;0;Asia
+2007;Asia;Asia;Georgia;7312;0;Asia
+2007;Asia;Asia;Israel;7000;0;Asia
+2007;Asia;Asia;Jordan;30102;0;Asia
+2007;Asia;Asia;Kuwait;270169;95646;Asia
+2007;Asia;Asia;Lebanon;22970;640;Asia
+2007;Asia;Asia;Oman;4050062;0;Asia
+2007;Asia;Asia;Qatar;73365;0;Asia
+2007;Asia;Asia;Saudi Arabia;833596;0;Asia
+2007;Asia;Asia;Turkey;92359711;63287;Asia
+2007;Asia;Asia;United Arab Emirates;548185;192804;Asia
+2007;Asia;Asia;Yemen;977417;0;Asia
+2007;Europe;Europe;Austria;32145818;1357270;Europe
+2007;Europe;Europe;Belgium;150783834;1073783;Europe
+2007;Europe;Europe;France;131809086;4410248;Europe
+2007;Europe;Europe;Germany;453337000;969479000;Europe
+2007;Europe;Europe;Luxembourg;117758;0;Europe
+2007;Europe;Europe;Netherlands;204391973;15758659;Europe
+2007;Europe;Europe;Switzerland;111650;1580;Europe
+2008;NA;NA;Bolivia (Plurinational State of);12082;0;Americas
+2008;NA;NA;China, Hong Kong SAR;47162;50282;Asia
+2008;NA;NA;China, Macao SAR;0;5132;Asia
+2008;NA;NA;FS Micronesia;1785;0;Oceania
+2008;NA;NA;Fmr Sudan;443013;0;Africa
+2008;NA;NA;Mozambique;1561;0;Africa
+2008;NA;NA;Neth. Antilles;1048662;279776;Oceania
+2008;NA;NA;North Macedonia;20435;0;Europe
+2008;NA;NA;Other Asia, nes;94932324;832897;Asia
+2008;NA;NA;Rep. of Korea;102169320;3044838;Asia
+2008;NA;NA;Rep. of Moldova;601;0;Europe
+2008;NA;NA;State of Palestine;2103;0;Asia
+2008;NA;NA;Syria;429915;0;Asia
+2008;NA;NA;Venezuela;16271;0;Americas
+2008;NA;Americas;Dominican Rep.;54129;0;Americas
+2008;NA;Africa;United Rep. of Tanzania;92974;423;Africa
+2008;NA;Europe;Czechia;963355;300177;Europe
+2008;NA;Africa;Central African Rep.;1869;0;Africa
+2008;NA;Americas;USA;2679086132;22072970;Americas
+2008;NA;Europe;Faeroe Isds;182644;0;Europe
+2008;NA;Africa;Eswatini;133121;1998;Africa
+2008;NA;Europe;Bosnia Herzegovina;55206;17558;Europe
+2008;Oceania;Oceania;Australia;226641776;20203283;Oceania
+2008;Oceania;Oceania;New Zealand;13526009;178131;Oceania
+2008;Americas;NA;Bahamas;5756;200;Americas
+2008;Americas;NA;Saint Kitts and Nevis;533;0;Americas
+2008;Americas;NA;Saint Lucia;14873;1005;Americas
+2008;Americas;NA;Saint Vincent and the Grenadines;1337;0;Americas
+2008;Americas;Americas;Barbados;4579;0;Americas
+2008;Americas;Americas;Dominica;7157154;0;Americas
+2008;Americas;Americas;Grenada;775;2602;Americas
+2008;Americas;Americas;Jamaica;2082;3205;Americas
+2008;Americas;Americas;Trinidad and Tobago;5117;21921;Americas
+2008;Americas;Americas;Belize;5689;0;Americas
+2008;Americas;Americas;Costa Rica;25535945;0;Americas
+2008;Americas;Americas;El Salvador;8728;0;Americas
+2008;Americas;Americas;Guatemala;32054;0;Americas
+2008;Americas;Americas;Mexico;85431302;931635;Americas
+2008;Americas;Americas;Nicaragua;23754;0;Americas
+2008;Americas;Americas;Panama;5404;8207;Americas
+2008;Asia;Asia;Kazakhstan;106648;0;Asia
+2008;Africa;Africa;Burundi;130;0;Africa
+2008;Africa;Africa;Comoros;29597;148;Africa
+2008;Africa;Africa;Kenya;108656;1232;Africa
+2008;Africa;Africa;Madagascar;83614;3864;Africa
+2008;Africa;Africa;Malawi;151826;0;Africa
+2008;Africa;Africa;Mauritius;17408;0;Africa
+2008;Africa;Africa;Rwanda;5802;0;Africa
+2008;Africa;Africa;Seychelles;36;0;Africa
+2008;Africa;Africa;Uganda;8991;0;Africa
+2008;Africa;Africa;Zambia;1539;67;Africa
+2008;Africa;Africa;Zimbabwe;1769;2;Africa
+2008;Asia;Asia;China;189281547;210850416;Asia
+2008;Asia;Asia;Japan;173675770;468847186;Asia
+2008;Europe;NA;Belarus;7900;0;Europe
+2008;Europe;NA;Russian Federation;4858770;56963;Europe
+2008;Europe;Europe;Bulgaria;18904156;606;Europe
+2008;Europe;Europe;Hungary;113000;0;Europe
+2008;Europe;Europe;Poland;17465385;21506;Europe
+2008;Europe;Europe;Romania;3523439;0;Europe
+2008;Europe;Europe;Slovakia;93080;0;Europe
+2008;Europe;Europe;Ukraine;171610;295840;Europe
+2008;Oceania;Oceania;Fiji;4044;39548;Oceania
+2008;Oceania;Oceania;New Caledonia;9085786;1243;Oceania
+2008;Oceania;Oceania;Kiribati;1099;0;Oceania
+2008;Africa;Africa;Cameroon;445;0;Africa
+2008;Africa;Africa;Congo;104127;0;Africa
+2008;Africa;Africa;Gabon;4912;0;Africa
+2008;Africa;Africa;Algeria;2474;0;Africa
+2008;Africa;Africa;Egypt;669679;0;Africa
+2008;Africa;Africa;Morocco;186635;0;Africa
+2008;Africa;Africa;Tunisia;31143;1903;Africa
+2008;Americas;Americas;Canada;545188053;3601918;Americas
+2008;Europe;Europe;Denmark;0;1191834152;Europe
+2008;Europe;Europe;Estonia;293124;1038097;Europe
+2008;Europe;Europe;Finland;311454;1051176;Europe
+2008;Europe;Europe;Iceland;32966;0;Europe
+2008;Europe;Europe;Ireland;47053436;987;Europe
+2008;Europe;Europe;Latvia;3591760;0;Europe
+2008;Europe;Europe;Lithuania;137523;273553;Europe
+2008;Europe;Europe;Norway;30515007;903;Europe
+2008;Europe;Europe;Sweden;39082095;561709;Europe
+2008;Europe;Europe;United Kingdom;423968709;9871652;Europe
+2008;Oceania;Oceania;French Polynesia;19974;0;Oceania
+2008;Oceania;Oceania;Tonga;7112;0;Oceania
+2008;Americas;Americas;Argentina;79153;627;Americas
+2008;Americas;Americas;Brazil;121720898;13956232;Americas
+2008;Americas;Americas;Chile;15290973;0;Americas
+2008;Americas;Americas;Colombia;11400;0;Americas
+2008;Americas;Americas;Ecuador;10884;0;Americas
+2008;Americas;Americas;Guyana;26366;0;Americas
+2008;Americas;Americas;Peru;4091;0;Americas
+2008;Americas;Americas;Uruguay;74166;0;Americas
+2008;Asia;NA;Brunei Darussalam;83385;12069;Asia
+2008;Asia;NA;Viet Nam;388532;126446299;Asia
+2008;Asia;Asia;Cambodia;101506;0;Asia
+2008;Asia;Asia;Indonesia;3206936;105904;Asia
+2008;Asia;Asia;Malaysia;57103;1494388;Asia
+2008;Asia;Asia;Philippines;159161;0;Asia
+2008;Asia;Asia;Singapore;1157972;202195;Asia
+2008;Asia;Asia;Thailand;5652066;254572;Asia
+2008;Africa;Africa;Botswana;275035;5889;Africa
+2008;Africa;Africa;Lesotho;1222;0;Africa
+2008;Africa;Africa;Namibia;24301;59;Africa
+2008;Africa;Africa;South Africa;739607;545874;Africa
+2008;Asia;Asia;Bangladesh;43568;0;Asia
+2008;Asia;Asia;India;2310071;651149240;Asia
+2008;Asia;Asia;Pakistan;37998;54536;Asia
+2008;Asia;Asia;Sri Lanka;5810;0;Asia
+2008;Europe;Europe;Albania;8620;0;Europe
+2008;Europe;Europe;Croatia;21204649;0;Europe
+2008;Europe;Europe;Greece;30778887;16635908;Europe
+2008;Europe;Europe;Italy;300669645;23917633;Europe
+2008;Europe;Europe;Malta;2869;0;Europe
+2008;Europe;Europe;Portugal;269751423;181653040;Europe
+2008;Europe;Europe;Serbia;56270;0;Europe
+2008;Europe;Europe;Slovenia;53670;0;Europe
+2008;Europe;Europe;Spain;274276634;478725544;Europe
+2008;Africa;NA;Cabo Verde;5547;0;Africa
+2008;Africa;NA;Gambia;239;0;Africa
+2008;Africa;Africa;Benin;1304;0;Africa
+2008;Africa;Africa;Burkina Faso;422;0;Africa
+2008;Africa;Africa;Ghana;1189;0;Africa
+2008;Africa;Africa;Guinea;3171;0;Africa
+2008;Africa;Africa;Mali;4710;0;Africa
+2008;Africa;Africa;Mauritania;38965;0;Africa
+2008;Africa;Africa;Nigeria;39884;0;Africa
+2008;Africa;Africa;Senegal;7934;0;Africa
+2008;Africa;Africa;Togo;30547;0;Africa
+2008;Asia;Asia;Armenia;16670;0;Asia
+2008;Asia;Asia;Azerbaijan;4334021;0;Asia
+2008;Asia;Asia;Bahrain;79622;0;Asia
+2008;Asia;Asia;Cyprus;2911;942;Asia
+2008;Asia;Asia;Georgia;99942;0;Asia
+2008;Asia;Asia;Israel;72000;10000;Asia
+2008;Asia;Asia;Jordan;67543;32261;Asia
+2008;Asia;Asia;Lebanon;364624;400;Asia
+2008;Asia;Asia;Oman;42359;0;Asia
+2008;Asia;Asia;Qatar;656885;0;Asia
+2008;Asia;Asia;Saudi Arabia;2683203;0;Asia
+2008;Asia;Asia;Turkey;285010340;539140;Asia
+2008;Asia;Asia;United Arab Emirates;161759;9901481;Asia
+2008;Asia;Asia;Yemen;939;0;Asia
+2008;Europe;Europe;Austria;5968087;4010798;Europe
+2008;Europe;Europe;Belgium;104138881;1688427;Europe
+2008;Europe;Europe;France;160118275;2494422;Europe
+2008;Europe;Europe;Germany;632187040;2164630535;Europe
+2008;Europe;Europe;Luxembourg;308378;85411;Europe
+2008;Europe;Europe;Netherlands;162440126;15104195;Europe
+2008;Europe;Europe;Switzerland;4037677;107035;Europe
+2009;NA;NA;Bolivia (Plurinational State of);7121;0;Americas
+2009;NA;NA;China, Hong Kong SAR;24887;27035;Asia
+2009;NA;NA;Côte d'Ivoire;1874;0;Africa
+2009;NA;NA;Fmr Sudan;3444557;0;Africa
+2009;NA;NA;Mozambique;12153;0;Africa
+2009;NA;NA;North Macedonia;3132;0;Europe
+2009;NA;NA;Other Asia, nes;124565234;1522645;Asia
+2009;NA;NA;Rep. of Korea;37462152;1618945;Asia
+2009;NA;NA;Rep. of Moldova;7034;0;Europe
+2009;NA;NA;State of Palestine;13053;0;Asia
+2009;NA;NA;Syria;1302;0;Asia
+2009;NA;NA;Venezuela;16270054;0;Americas
+2009;NA;Americas;Dominican Rep.;17592;0;Americas
+2009;NA;Africa;United Rep. of Tanzania;69539;0;Africa
+2009;NA;Europe;Czechia;28944;295212;Europe
+2009;NA;Americas;USA;2300554487;116998205;Americas
+2009;NA;Europe;Faeroe Isds;12602;0;Europe
+2009;NA;Africa;Eswatini;72302;5600;Africa
+2009;NA;Europe;Bosnia Herzegovina;7553;0;Europe
+2009;Oceania;Oceania;Australia;212361776;3918272;Oceania
+2009;Oceania;Oceania;New Zealand;40075382;155329;Oceania
+2009;Americas;NA;Bahamas;1350;0;Americas
+2009;Americas;NA;Saint Kitts and Nevis;323;0;Americas
+2009;Americas;NA;Saint Lucia;9514;11109;Americas
+2009;Americas;NA;Saint Vincent and the Grenadines;12823;0;Americas
+2009;Americas;Americas;Antigua and Barbuda;11055;0;Americas
+2009;Americas;Americas;Aruba;53845094;0;Americas
+2009;Americas;Americas;Barbados;1314;0;Americas
+2009;Americas;Americas;Dominica;8307;0;Americas
+2009;Americas;Americas;Grenada;8754;0;Americas
+2009;Americas;Americas;Jamaica;5401;208462;Americas
+2009;Americas;Americas;Trinidad and Tobago;2285;34196;Americas
+2009;Americas;Americas;Belize;21292;0;Americas
+2009;Americas;Americas;Costa Rica;91787;0;Americas
+2009;Americas;Americas;El Salvador;470;0;Americas
+2009;Americas;Americas;Guatemala;25708;360;Americas
+2009;Americas;Americas;Honduras;29842;0;Americas
+2009;Americas;Americas;Mexico;195292957;68759;Americas
+2009;Americas;Americas;Nicaragua;9436;0;Americas
+2009;Americas;Americas;Panama;0;985;Americas
+2009;Asia;Asia;Kazakhstan;306133;0;Asia
+2009;Africa;Africa;Burundi;53637;0;Africa
+2009;Africa;Africa;Comoros;57863;0;Africa
+2009;Africa;Africa;Ethiopia;41581;0;Africa
+2009;Africa;Africa;Kenya;160561;3632;Africa
+2009;Africa;Africa;Madagascar;62143;0;Africa
+2009;Africa;Africa;Malawi;101;0;Africa
+2009;Africa;Africa;Mauritius;5423;0;Africa
+2009;Africa;Africa;Rwanda;5437;3097;Africa
+2009;Africa;Africa;Uganda;2649;0;Africa
+2009;Africa;Africa;Zambia;2923;0;Africa
+2009;Africa;Africa;Zimbabwe;1015;0;Africa
+2009;Asia;Asia;China;26398945;151051654;Asia
+2009;Asia;Asia;Japan;55462297;480557004;Asia
+2009;Europe;NA;Belarus;14000;0;Europe
+2009;Europe;NA;Russian Federation;1921821;159697;Europe
+2009;Europe;Europe;Bulgaria;80187786;14075;Europe
+2009;Europe;Europe;Hungary;185000;0;Europe
+2009;Europe;Europe;Poland;88863141;1011;Europe
+2009;Europe;Europe;Romania;35510452;0;Europe
+2009;Europe;Europe;Slovakia;57704;2969;Europe
+2009;Europe;Europe;Ukraine;161646;90764;Europe
+2009;Oceania;Oceania;Fiji;7556;0;Oceania
+2009;Oceania;Oceania;New Caledonia;199986;201148;Oceania
+2009;Oceania;Oceania;Vanuatu;25086;0;Oceania
+2009;Africa;Africa;Angola;29608865;0;Africa
+2009;Africa;Africa;Cameroon;611;0;Africa
+2009;Africa;Africa;Congo;68577;0;Africa
+2009;Africa;Africa;Gabon;569;0;Africa
+2009;Africa;Africa;Algeria;64189;0;Africa
+2009;Africa;Africa;Egypt;45525872;0;Africa
+2009;Africa;Africa;Morocco;92177;0;Africa
+2009;Africa;Africa;Tunisia;105829;0;Africa
+2009;Americas;Americas;Canada;435755359;16004340;Americas
+2009;Europe;Europe;Denmark;1204216;1633295041;Europe
+2009;Europe;Europe;Estonia;177788;4352573;Europe
+2009;Europe;Europe;Finland;1056996;9208672;Europe
+2009;Europe;Europe;Iceland;12923;0;Europe
+2009;Europe;Europe;Ireland;119794509;2366327;Europe
+2009;Europe;Europe;Latvia;1505791;1495;Europe
+2009;Europe;Europe;Lithuania;663975;3791;Europe
+2009;Europe;Europe;Norway;10637992;9199;Europe
+2009;Europe;Europe;Sweden;209946496;307314;Europe
+2009;Europe;Europe;United Kingdom;457486092;16280325;Europe
+2009;Oceania;Oceania;French Polynesia;13031;0;Oceania
+2009;Americas;Americas;Argentina;294179;690;Americas
+2009;Americas;Americas;Brazil;221129408;16541494;Americas
+2009;Americas;Americas;Chile;122201085;0;Americas
+2009;Americas;Americas;Colombia;19802;0;Americas
+2009;Americas;Americas;Ecuador;10526;0;Americas
+2009;Americas;Americas;Guyana;30189;0;Americas
+2009;Americas;Americas;Peru;24759;0;Americas
+2009;Americas;Americas;Uruguay;123930;0;Americas
+2009;Asia;NA;Brunei Darussalam;138924;62748;Asia
+2009;Asia;NA;Viet Nam;64888;116874648;Asia
+2009;Asia;Asia;Cambodia;5885;0;Asia
+2009;Asia;Asia;Indonesia;56726;76692;Asia
+2009;Asia;Asia;Malaysia;145673;68714;Asia
+2009;Asia;Asia;Philippines;599;0;Asia
+2009;Asia;Asia;Singapore;217891;204834;Asia
+2009;Asia;Asia;Thailand;56755347;226836;Asia
+2009;Africa;Africa;Botswana;5633;0;Africa
+2009;Africa;Africa;Namibia;50760;360;Africa
+2009;Africa;Africa;South Africa;550040;133524;Africa
+2009;Asia;Asia;Bangladesh;28651;0;Asia
+2009;Asia;Asia;India;1441850;335619342;Asia
+2009;Asia;Asia;Maldives;366;0;Asia
+2009;Asia;Asia;Nepal;541334;0;Asia
+2009;Asia;Asia;Pakistan;104572;1761;Asia
+2009;Asia;Asia;Sri Lanka;21647;0;Asia
+2009;Europe;Europe;Albania;938;0;Europe
+2009;Europe;Europe;Croatia;9723000;4241;Europe
+2009;Europe;Europe;Greece;192673162;12002138;Europe
+2009;Europe;Europe;Italy;83038399;26018084;Europe
+2009;Europe;Europe;Malta;106105;0;Europe
+2009;Europe;Europe;Montenegro;24564;6799;Europe
+2009;Europe;Europe;Portugal;56007093;23267511;Europe
+2009;Europe;Europe;Serbia;126339;120850;Europe
+2009;Europe;Europe;Slovenia;144830;300764;Europe
+2009;Europe;Europe;Spain;207645328;742669251;Europe
+2009;Africa;NA;Cabo Verde;138657;1601;Africa
+2009;Africa;NA;Gambia;19;0;Africa
+2009;Africa;Africa;Benin;21862;0;Africa
+2009;Africa;Africa;Ghana;11863;0;Africa
+2009;Africa;Africa;Niger;12905;0;Africa
+2009;Africa;Africa;Nigeria;2229056;11860;Africa
+2009;Africa;Africa;Senegal;3300;0;Africa
+2009;Africa;Africa;Togo;1701;0;Africa
+2009;Asia;Asia;Azerbaijan;3190529;0;Asia
+2009;Asia;Asia;Bahrain;0;4301;Asia
+2009;Asia;Asia;Cyprus;33413895;0;Asia
+2009;Asia;Asia;Georgia;16858;0;Asia
+2009;Asia;Asia;Israel;67000;0;Asia
+2009;Asia;Asia;Jordan;4475;0;Asia
+2009;Asia;Asia;Lebanon;268630;0;Asia
+2009;Asia;Asia;Oman;1147441;43852;Asia
+2009;Asia;Asia;Qatar;0;13505;Asia
+2009;Asia;Asia;Saudi Arabia;2076977;0;Asia
+2009;Asia;Asia;Turkey;506169567;669361;Asia
+2009;Asia;Asia;Yemen;28050;0;Asia
+2009;Europe;Europe;Austria;11562190;2372430;Europe
+2009;Europe;Europe;Belgium;28867485;1227699;Europe
+2009;Europe;Europe;France;193542248;4976562;Europe
+2009;Europe;Europe;Germany;1248508493;1093019538;Europe
+2009;Europe;Europe;Luxembourg;61416;7112;Europe
+2009;Europe;Europe;Netherlands;167746066;4760704;Europe
+2009;Europe;Europe;Switzerland;7061313;109414;Europe
+2010;NA;NA;Bolivia (Plurinational State of);71735;0;Americas
+2010;NA;NA;China, Hong Kong SAR;147026;17159;Asia
+2010;NA;NA;Côte d'Ivoire;13682;0;Africa
+2010;NA;NA;Fmr Sudan;2055870;0;Africa
+2010;NA;NA;Iran;6647171;0;Asia
+2010;NA;NA;Mozambique;31738;6831;Africa
+2010;NA;NA;North Macedonia;7708;0;Europe
+2010;NA;NA;Other Asia, nes;36481639;2795931;Asia
+2010;NA;NA;Rep. of Korea;2104555;14309880;Asia
+2010;NA;NA;Rep. of Moldova;2813;0;Europe
+2010;NA;NA;State of Palestine;12887;0;Asia
+2010;NA;NA;Syria;81209;0;Asia
+2010;NA;NA;Venezuela;2560685;0;Americas
+2010;NA;Americas;Dominican Rep.;100317;0;Americas
+2010;NA;Africa;United Rep. of Tanzania;181295;0;Africa
+2010;NA;Europe;Czechia;258023;596180;Europe
+2010;NA;Americas;USA;1197502679;322184762;Americas
+2010;NA;Africa;Eswatini;22008;686;Africa
+2010;NA;Europe;Bosnia Herzegovina;40003;97689;Europe
+2010;Oceania;Oceania;Australia;22658962;1005139;Oceania
+2010;Oceania;Oceania;New Zealand;11130898;68468;Oceania
+2010;Americas;NA;Bahamas;2739;1170;Americas
+2010;Americas;NA;Saint Kitts and Nevis;536595;0;Americas
+2010;Americas;NA;Saint Lucia;22928;28070;Americas
+2010;Americas;NA;Saint Vincent and the Grenadines;1769;0;Americas
+2010;Americas;Americas;Antigua and Barbuda;6491;0;Americas
+2010;Americas;Americas;Aruba;130774;0;Americas
+2010;Americas;Americas;Barbados;22967;0;Americas
+2010;Americas;Americas;Jamaica;34404;0;Americas
+2010;Americas;Americas;Trinidad and Tobago;67040;39480;Americas
+2010;Americas;Americas;Belize;43443;0;Americas
+2010;Americas;Americas;Costa Rica;6326;0;Americas
+2010;Americas;Americas;El Salvador;2104;0;Americas
+2010;Americas;Americas;Guatemala;16858;0;Americas
+2010;Americas;Americas;Honduras;455;0;Americas
+2010;Americas;Americas;Mexico;295256121;32227;Americas
+2010;Americas;Americas;Nicaragua;7944;0;Americas
+2010;Americas;Americas;Panama;46086;790;Americas
+2010;Asia;Asia;Kazakhstan;301349;0;Asia
+2010;Asia;Asia;Kyrgyzstan;5589;0;Asia
+2010;Africa;Africa;Burundi;15001;406;Africa
+2010;Africa;Africa;Comoros;4521;0;Africa
+2010;Africa;Africa;Ethiopia;4876493;0;Africa
+2010;Africa;Africa;Kenya;249064;9175;Africa
+2010;Africa;Africa;Madagascar;843013;0;Africa
+2010;Africa;Africa;Malawi;39268;0;Africa
+2010;Africa;Africa;Mauritius;36684;0;Africa
+2010;Africa;Africa;Rwanda;531;0;Africa
+2010;Africa;Africa;Uganda;968;0;Africa
+2010;Africa;Africa;Zambia;2423;1783;Africa
+2010;Asia;Asia;China;11539351;56565208;Asia
+2010;Asia;Asia;Japan;41422403;5897517;Asia
+2010;Europe;NA;Belarus;115800;0;Europe
+2010;Europe;NA;Russian Federation;3111131;0;Europe
+2010;Europe;Europe;Bulgaria;84344726;10642;Europe
+2010;Europe;Europe;Hungary;45387000;199000;Europe
+2010;Europe;Europe;Poland;105142300;67200;Europe
+2010;Europe;Europe;Romania;115058966;47699;Europe
+2010;Europe;Europe;Slovakia;17675;0;Europe
+2010;Europe;Europe;Ukraine;414760;348441;Europe
+2010;Oceania;Oceania;Fiji;81986;0;Oceania
+2010;Oceania;Oceania;New Caledonia;354146;2848;Oceania
+2010;Oceania;Oceania;Vanuatu;46630;0;Oceania
+2010;Africa;Africa;Angola;26882;0;Africa
+2010;Africa;Africa;Cameroon;12258;0;Africa
+2010;Africa;Africa;Congo;66630;0;Africa
+2010;Africa;Africa;Algeria;29882;0;Africa
+2010;Africa;Africa;Egypt;3903;0;Africa
+2010;Africa;Africa;Morocco;35125;238;Africa
+2010;Africa;Africa;Tunisia;40732;0;Africa
+2010;Americas;Americas;Bermuda;27352;0;Americas
+2010;Americas;Americas;Canada;894974196;12599573;Americas
+2010;Europe;Europe;Denmark;37880631;1876861859;Europe
+2010;Europe;Europe;Estonia;231655;2435623;Europe
+2010;Europe;Europe;Finland;121335;1960415;Europe
+2010;Europe;Europe;Iceland;31274;0;Europe
+2010;Europe;Europe;Ireland;111722929;401718;Europe
+2010;Europe;Europe;Latvia;60256;0;Europe
+2010;Europe;Europe;Lithuania;176894;3165;Europe
+2010;Europe;Europe;Norway;18071479;332;Europe
+2010;Europe;Europe;Sweden;251427260;352695;Europe
+2010;Europe;Europe;United Kingdom;550622903;5846658;Europe
+2010;Oceania;NA;Samoa;12052;0;Oceania
+2010;Oceania;Oceania;French Polynesia;32334;0;Oceania
+2010;Americas;Americas;Argentina;10607960;2825;Americas
+2010;Americas;Americas;Brazil;273986198;25920406;Americas
+2010;Americas;Americas;Chile;15482233;23568;Americas
+2010;Americas;Americas;Colombia;8314;0;Americas
+2010;Americas;Americas;Ecuador;258329;0;Americas
+2010;Americas;Americas;Guyana;59492;0;Americas
+2010;Americas;Americas;Peru;28374;0;Americas
+2010;Americas;Americas;Uruguay;17340028;0;Americas
+2010;Asia;NA;Brunei Darussalam;41233;0;Asia
+2010;Asia;NA;Myanmar;1117435;0;Asia
+2010;Asia;NA;Viet Nam;71580;67377516;Asia
+2010;Asia;Asia;Indonesia;1091138;129;Asia
+2010;Asia;Asia;Malaysia;122752;654309;Asia
+2010;Asia;Asia;Philippines;503201;0;Asia
+2010;Asia;Asia;Singapore;288020;89758;Asia
+2010;Asia;Asia;Thailand;10812578;298611;Asia
+2010;Africa;Africa;Botswana;91972;0;Africa
+2010;Africa;Africa;Lesotho;7020;0;Africa
+2010;Africa;Africa;Namibia;128928;123;Africa
+2010;Africa;Africa;South Africa;709015;238756;Africa
+2010;Asia;Asia;Bangladesh;440;0;Asia
+2010;Asia;Asia;Bhutan;5049;0;Asia
+2010;Asia;Asia;India;3927302;122896349;Asia
+2010;Asia;Asia;Maldives;68982;0;Asia
+2010;Asia;Asia;Nepal;450350;0;Asia
+2010;Asia;Asia;Pakistan;108722;0;Asia
+2010;Asia;Asia;Sri Lanka;17626390;0;Asia
+2010;Europe;Europe;Albania;35685;0;Europe
+2010;Europe;Europe;Croatia;23677139;3968;Europe
+2010;Europe;Europe;Greece;195626182;52646858;Europe
+2010;Europe;Europe;Italy;168188916;61972584;Europe
+2010;Europe;Europe;Malta;199395;0;Europe
+2010;Europe;Europe;Montenegro;4306;0;Europe
+2010;Europe;Europe;Portugal;1058736;11158632;Europe
+2010;Europe;Europe;Serbia;13481;11673;Europe
+2010;Europe;Europe;Slovenia;63897;165560;Europe
+2010;Europe;Europe;Spain;54319305;706473810;Europe
+2010;Africa;NA;Cabo Verde;628;0;Africa
+2010;Africa;Africa;Burkina Faso;404;0;Africa
+2010;Africa;Africa;Ghana;15814;0;Africa
+2010;Africa;Africa;Mauritania;68110;0;Africa
+2010;Africa;Africa;Niger;167;0;Africa
+2010;Africa;Africa;Nigeria;62588;0;Africa
+2010;Africa;Africa;Senegal;6075;14128;Africa
+2010;Asia;Asia;Azerbaijan;5311230;0;Asia
+2010;Asia;Asia;Bahrain;11179;0;Asia
+2010;Asia;Asia;Cyprus;265158;22054;Asia
+2010;Asia;Asia;Georgia;30732;0;Asia
+2010;Asia;Asia;Israel;1472000;7000;Asia
+2010;Asia;Asia;Lebanon;170323;3545738;Asia
+2010;Asia;Asia;Oman;169223;0;Asia
+2010;Asia;Asia;Qatar;955931;0;Asia
+2010;Asia;Asia;Saudi Arabia;712001;0;Asia
+2010;Asia;Asia;Turkey;405215271;17393;Asia
+2010;Asia;Asia;Yemen;129063;0;Asia
+2010;Europe;Europe;Austria;384760;3387847;Europe
+2010;Europe;Europe;Belgium;129739706;234907493;Europe
+2010;Europe;Europe;France;162645244;20973022;Europe
+2010;Europe;Europe;Germany;534603508;1893025416;Europe
+2010;Europe;Europe;Luxembourg;41049;2128;Europe
+2010;Europe;Europe;Netherlands;41220807;7831885;Europe
+2010;Europe;Europe;Switzerland;30867026;78421;Europe
+2011;NA;NA;Bolivia (Plurinational State of);62245;0;Americas
+2011;NA;NA;China, Hong Kong SAR;98441;111379;Asia
+2011;NA;NA;Côte d'Ivoire;8715;0;Africa
+2011;NA;NA;FS Micronesia;398;0;Oceania
+2011;NA;NA;Fmr Sudan;459407;0;Africa
+2011;NA;NA;Iran;6391164;0;Asia
+2011;NA;NA;Mozambique;254000;0;Africa
+2011;NA;NA;North Macedonia;7803;0;Europe
+2011;NA;NA;Other Asia, nes;45820877;1974459;Asia
+2011;NA;NA;Rep. of Korea;2830174;13307204;Asia
+2011;NA;NA;Rep. of Moldova;24980;20032;Europe
+2011;NA;NA;State of Palestine;380;0;Asia
+2011;NA;NA;Venezuela;1564775;0;Americas
+2011;NA;Americas;Dominican Rep.;7705;0;Americas
+2011;NA;Americas;Turks and Caicos Isds;4470;0;Americas
+2011;NA;Africa;United Rep. of Tanzania;20132;10;Africa
+2011;NA;Europe;Czechia;3285919;656063;Europe
+2011;NA;Oceania;Solomon Isds;585;0;Oceania
+2011;NA;Americas;USA;1289922980;255003586;Americas
+2011;NA;Africa;Eswatini;6638;20;Africa
+2011;NA;Europe;Bosnia Herzegovina;10957;0;Europe
+2011;Oceania;Oceania;Australia;154639403;205746;Oceania
+2011;Oceania;Oceania;New Zealand;34607566;1644936;Oceania
+2011;Americas;NA;Bahamas;2221;0;Americas
+2011;Americas;NA;Saint Lucia;13863;345;Americas
+2011;Americas;NA;Saint Vincent and the Grenadines;7594;0;Americas
+2011;Americas;Americas;Antigua and Barbuda;3709;0;Americas
+2011;Americas;Americas;Aruba;69727;11059;Americas
+2011;Americas;Americas;Barbados;42448;0;Americas
+2011;Americas;Americas;Jamaica;42493;0;Americas
+2011;Americas;Americas;Montserrat;2973;0;Americas
+2011;Americas;Americas;Trinidad and Tobago;18446;25309;Americas
+2011;Americas;Americas;Belize;14420;0;Americas
+2011;Americas;Americas;Costa Rica;8463628;0;Americas
+2011;Americas;Americas;El Salvador;992;0;Americas
+2011;Americas;Americas;Guatemala;13090;0;Americas
+2011;Americas;Americas;Honduras;313591;209;Americas
+2011;Americas;Americas;Mexico;341402114;593135;Americas
+2011;Americas;Americas;Nicaragua;27619;3500;Americas
+2011;Americas;Americas;Panama;8356;1610;Americas
+2011;Asia;Asia;Kazakhstan;1829777;2200;Asia
+2011;Asia;Asia;Kyrgyzstan;8851;0;Asia
+2011;Africa;Africa;Burundi;25228;0;Africa
+2011;Africa;Africa;Comoros;4640;0;Africa
+2011;Africa;Africa;Ethiopia;24187830;0;Africa
+2011;Africa;Africa;Madagascar;66000;0;Africa
+2011;Africa;Africa;Malawi;17461;0;Africa
+2011;Africa;Africa;Mauritius;28312;0;Africa
+2011;Africa;Africa;Seychelles;1;0;Africa
+2011;Africa;Africa;Uganda;48518;0;Africa
+2011;Africa;Africa;Zambia;42784;0;Africa
+2011;Africa;Africa;Zimbabwe;8632;0;Africa
+2011;Asia;Asia;China;11745188;351154168;Asia
+2011;Asia;Asia;Japan;30860537;12838263;Asia
+2011;Europe;NA;Belarus;3307900;4400;Europe
+2011;Europe;NA;Russian Federation;2632528;86589;Europe
+2011;Europe;Europe;Bulgaria;67041184;190023676;Europe
+2011;Europe;Europe;Hungary;510000;11000;Europe
+2011;Europe;Europe;Poland;112730357;180587;Europe
+2011;Europe;Europe;Romania;353722032;0;Europe
+2011;Europe;Europe;Slovakia;783341;3214;Europe
+2011;Europe;Europe;Ukraine;96836895;98753;Europe
+2011;Oceania;Oceania;Fiji;32161;0;Oceania
+2011;Oceania;Oceania;New Caledonia;43873;175;Oceania
+2011;Oceania;Oceania;Papua New Guinea;209207;0;Oceania
+2011;Oceania;Oceania;Vanuatu;7334;0;Oceania
+2011;Africa;Africa;Angola;50374;0;Africa
+2011;Africa;Africa;Cameroon;10713;1654;Africa
+2011;Africa;Africa;Congo;3586;0;Africa
+2011;Africa;Africa;Sao Tome and Principe;7820;0;Africa
+2011;Africa;Africa;Algeria;1039;0;Africa
+2011;Africa;Africa;Egypt;423658;0;Africa
+2011;Africa;Africa;Morocco;7060048;7008;Africa
+2011;Africa;Africa;Tunisia;2761;0;Africa
+2011;Americas;Americas;Bermuda;14576;0;Americas
+2011;Americas;Americas;Canada;546210979;19282261;Americas
+2011;Europe;Europe;Denmark;0;2213875245;Europe
+2011;Europe;Europe;Estonia;3868784;9275228;Europe
+2011;Europe;Europe;Finland;1717174;2972421;Europe
+2011;Europe;Europe;Iceland;49711;0;Europe
+2011;Europe;Europe;Ireland;14667168;4409907;Europe
+2011;Europe;Europe;Latvia;251862;0;Europe
+2011;Europe;Europe;Lithuania;147309;6509;Europe
+2011;Europe;Europe;Norway;89937632;4325840;Europe
+2011;Europe;Europe;Sweden;401227796;2149945;Europe
+2011;Europe;Europe;United Kingdom;816353102;4972123;Europe
+2011;Oceania;Oceania;French Polynesia;4279;0;Oceania
+2011;Oceania;Oceania;Tonga;35;0;Oceania
+2011;Americas;Americas;Argentina;236679;20900;Americas
+2011;Americas;Americas;Brazil;456279532;563960;Americas
+2011;Americas;Americas;Chile;69669314;9655;Americas
+2011;Americas;Americas;Colombia;434690;0;Americas
+2011;Americas;Americas;Ecuador;11650;0;Americas
+2011;Americas;Americas;Guyana;8251;0;Americas
+2011;Americas;Americas;Peru;81852;0;Americas
+2011;Americas;Americas;Suriname;896;0;Americas
+2011;Americas;Americas;Uruguay;122869;0;Americas
+2011;Asia;NA;Brunei Darussalam;32713;119;Asia
+2011;Asia;NA;Myanmar;999453;0;Asia
+2011;Asia;NA;Viet Nam;5620821;128393319;Asia
+2011;Asia;Asia;Cambodia;341950;0;Asia
+2011;Asia;Asia;Indonesia;97337;35;Asia
+2011;Asia;Asia;Malaysia;148541;651781;Asia
+2011;Asia;Asia;Philippines;32534;0;Asia
+2011;Asia;Asia;Singapore;54654;438318;Asia
+2011;Asia;Asia;Thailand;1220821;401105;Asia
+2011;Africa;Africa;Botswana;2792;2941;Africa
+2011;Africa;Africa;Namibia;65972;0;Africa
+2011;Africa;Africa;South Africa;660867;509355;Africa
+2011;Asia;Asia;Bangladesh;35685;0;Asia
+2011;Asia;Asia;India;9469560;41058277;Asia
+2011;Asia;Asia;Nepal;702;0;Asia
+2011;Asia;Asia;Pakistan;20738074;0;Asia
+2011;Asia;Asia;Sri Lanka;23958267;0;Asia
+2011;Europe;Europe;Albania;0;14994;Europe
+2011;Europe;Europe;Croatia;42930295;8699;Europe
+2011;Europe;Europe;Greece;187927630;12090277;Europe
+2011;Europe;Europe;Italy;266002420;283400390;Europe
+2011;Europe;Europe;Malta;4355;77758;Europe
+2011;Europe;Europe;Montenegro;44256;0;Europe
+2011;Europe;Europe;Portugal;16044658;5788835;Europe
+2011;Europe;Europe;Serbia;16282;21526;Europe
+2011;Europe;Europe;Slovenia;151456;187942;Europe
+2011;Europe;Europe;Spain;50086004;877402171;Europe
+2011;Africa;NA;Cabo Verde;5017762;1380;Africa
+2011;Africa;NA;Gambia;166;0;Africa
+2011;Africa;Africa;Benin;514;0;Africa
+2011;Africa;Africa;Ghana;38636;0;Africa
+2011;Africa;Africa;Mauritania;460849;0;Africa
+2011;Africa;Africa;Niger;100;0;Africa
+2011;Africa;Africa;Nigeria;550988;0;Africa
+2011;Africa;Africa;Senegal;14642;0;Africa
+2011;Africa;Africa;Togo;17362;0;Africa
+2011;Asia;Asia;Azerbaijan;110382020;0;Asia
+2011;Asia;Asia;Bahrain;1453;4207;Asia
+2011;Asia;Asia;Cyprus;463263;0;Asia
+2011;Asia;Asia;Georgia;122622;0;Asia
+2011;Asia;Asia;Israel;54000;144000;Asia
+2011;Asia;Asia;Jordan;1548;0;Asia
+2011;Asia;Asia;Kuwait;84398;35512;Asia
+2011;Asia;Asia;Lebanon;59965;995;Asia
+2011;Asia;Asia;Oman;9846863;0;Asia
+2011;Asia;Asia;Saudi Arabia;705868;0;Asia
+2011;Asia;Asia;Turkey;353629018;2691140;Asia
+2011;Asia;Asia;Yemen;1940022;103764;Asia
+2011;Europe;Europe;Austria;31282687;1948394;Europe
+2011;Europe;Europe;Belgium;81724576;1027079;Europe
+2011;Europe;Europe;France;191608832;12455055;Europe
+2011;Europe;Europe;Germany;934007791;1325614085;Europe
+2011;Europe;Europe;Luxembourg;8921;24480;Europe
+2011;Europe;Europe;Netherlands;44179448;7016415;Europe
+2011;Europe;Europe;Switzerland;2915027;476819;Europe
+2012;NA;NA;Bolivia (Plurinational State of);54656;0;Americas
+2012;NA;NA;China, Hong Kong SAR;29851;350162;Asia
+2012;NA;NA;Côte d'Ivoire;1424;0;Africa
+2012;NA;NA;Mozambique;560;0;Africa
+2012;NA;NA;North Macedonia;18781;0;Europe
+2012;NA;NA;Other Asia, nes;54170153;981420;Asia
+2012;NA;NA;Rep. of Korea;1197638;16072372;Asia
+2012;NA;NA;Rep. of Moldova;286312;0;Europe
+2012;NA;NA;Venezuela;48519235;0;Americas
+2012;NA;Americas;Dominican Rep.;12878;0;Americas
+2012;NA;Americas;Turks and Caicos Isds;29499;0;Americas
+2012;NA;Africa;United Rep. of Tanzania;303698;0;Africa
+2012;NA;Europe;Czechia;13734071;794762;Europe
+2012;NA;Oceania;Solomon Isds;1338;0;Oceania
+2012;NA;Americas;USA;990532637;387951195;Americas
+2012;NA;Africa;Eswatini;56518;0;Africa
+2012;NA;Europe;Bosnia Herzegovina;279303;276210;Europe
+2012;Oceania;Oceania;Australia;351833855;607119;Oceania
+2012;Oceania;Oceania;New Zealand;341477;223235;Oceania
+2012;Americas;NA;Bahamas;15608;0;Americas
+2012;Americas;NA;Saint Kitts and Nevis;6208;0;Americas
+2012;Americas;NA;Saint Lucia;15366;4467;Americas
+2012;Americas;NA;Saint Vincent and the Grenadines;2209;0;Americas
+2012;Americas;Americas;Antigua and Barbuda;531;0;Americas
+2012;Americas;Americas;Aruba;11379;0;Americas
+2012;Americas;Americas;Barbados;42221;0;Americas
+2012;Americas;Americas;Dominica;154;0;Americas
+2012;Americas;Americas;Jamaica;144609;0;Americas
+2012;Americas;Americas;Trinidad and Tobago;2487;9997;Americas
+2012;Americas;Americas;Belize;39016;0;Americas
+2012;Americas;Americas;Costa Rica;44857;0;Americas
+2012;Americas;Americas;El Salvador;6120;0;Americas
+2012;Americas;Americas;Guatemala;4266;0;Americas
+2012;Americas;Americas;Honduras;30484;0;Americas
+2012;Americas;Americas;Mexico;318659256;72835;Americas
+2012;Americas;Americas;Nicaragua;62614786;0;Americas
+2012;Americas;Americas;Panama;182444;13881;Americas
+2012;Asia;Asia;Kazakhstan;296730;38720;Asia
+2012;Asia;Asia;Kyrgyzstan;1591;0;Asia
+2012;Africa;Africa;Burundi;242009;0;Africa
+2012;Africa;Africa;Comoros;1216;0;Africa
+2012;Africa;Africa;Ethiopia;7010851;1481247;Africa
+2012;Africa;Africa;Madagascar;49407;0;Africa
+2012;Africa;Africa;Malawi;24615;0;Africa
+2012;Africa;Africa;Mauritius;13489;394;Africa
+2012;Africa;Africa;Rwanda;51529;0;Africa
+2012;Africa;Africa;Seychelles;4600320;0;Africa
+2012;Africa;Africa;Zambia;4152;0;Africa
+2012;Asia;Asia;China;3286363;466939386;Asia
+2012;Asia;Asia;Japan;41840154;76598257;Asia
+2012;Europe;NA;Belarus;1014500;0;Europe
+2012;Europe;NA;Russian Federation;6762812;16038;Europe
+2012;Europe;Europe;Bulgaria;13805601;14251561;Europe
+2012;Europe;Europe;Hungary;159755;6952;Europe
+2012;Europe;Europe;Poland;75122631;683172;Europe
+2012;Europe;Europe;Romania;194383351;0;Europe
+2012;Europe;Europe;Slovakia;286697;6720;Europe
+2012;Europe;Europe;Ukraine;79080280;164171;Europe
+2012;Oceania;Oceania;Fiji;91708;0;Oceania
+2012;Oceania;Oceania;New Caledonia;28532;0;Oceania
+2012;Oceania;Oceania;Papua New Guinea;356027;4022;Oceania
+2012;Oceania;NA;Palau;123;0;Oceania
+2012;Africa;Africa;Angola;178668;0;Africa
+2012;Africa;Africa;Cameroon;8950;0;Africa
+2012;Africa;Africa;Congo;138932;98412;Africa
+2012;Africa;Africa;Sao Tome and Principe;58619;0;Africa
+2012;Africa;Africa;Algeria;75212;0;Africa
+2012;Africa;Africa;Egypt;213198;0;Africa
+2012;Africa;Africa;Morocco;35020981;593;Africa
+2012;Africa;Africa;Sudan;11529;0;Africa
+2012;Africa;Africa;Tunisia;2539;0;Africa
+2012;Americas;Americas;Bermuda;2049;0;Americas
+2012;Americas;Americas;Canada;657513413;18504008;Americas
+2012;Europe;Europe;Denmark;0;1772302574;Europe
+2012;Europe;Europe;Estonia;956277;10923333;Europe
+2012;Europe;Europe;Finland;45358395;2886605;Europe
+2012;Europe;Europe;Iceland;65419;0;Europe
+2012;Europe;Europe;Ireland;13732577;64679239;Europe
+2012;Europe;Europe;Latvia;26674327;466695;Europe
+2012;Europe;Europe;Lithuania;10630296;0;Europe
+2012;Europe;Europe;Norway;66054555;0;Europe
+2012;Europe;Europe;Sweden;399545101;188491;Europe
+2012;Europe;Europe;United Kingdom;929383672;8365314;Europe
+2012;Oceania;Oceania;French Polynesia;2607;0;Oceania
+2012;Oceania;Oceania;Tonga;4633;0;Oceania
+2012;Americas;Americas;Argentina;205860;58840;Americas
+2012;Americas;Americas;Brazil;307140994;515353;Americas
+2012;Americas;Americas;Chile;46871840;223000;Americas
+2012;Americas;Americas;Colombia;110958;0;Americas
+2012;Americas;Americas;Ecuador;3997448;0;Americas
+2012;Americas;Americas;Guyana;14421;0;Americas
+2012;Americas;Americas;Paraguay;8004;0;Americas
+2012;Americas;Americas;Peru;69687;0;Americas
+2012;Americas;Americas;Uruguay;4962015;0;Americas
+2012;Asia;NA;Brunei Darussalam;16020;0;Asia
+2012;Asia;NA;Myanmar;434528;0;Asia
+2012;Asia;NA;Viet Nam;12381;3989110;Asia
+2012;Asia;Asia;Cambodia;100;19783;Asia
+2012;Asia;Asia;Indonesia;2548461;0;Asia
+2012;Asia;Asia;Malaysia;3694652;10674510;Asia
+2012;Asia;Asia;Philippines;374514;0;Asia
+2012;Asia;Asia;Singapore;21276744;21474633;Asia
+2012;Asia;Asia;Thailand;75274793;668428;Asia
+2012;Africa;Africa;Botswana;4961;0;Africa
+2012;Africa;Africa;Lesotho;418;0;Africa
+2012;Africa;Africa;Namibia;47513;1524;Africa
+2012;Africa;Africa;South Africa;1101560;535480;Africa
+2012;Asia;Asia;Bangladesh;58945;0;Asia
+2012;Asia;Asia;India;4938145;43783349;Asia
+2012;Asia;Asia;Maldives;1770;0;Asia
+2012;Asia;Asia;Nepal;169327;0;Asia
+2012;Asia;Asia;Pakistan;20085465;0;Asia
+2012;Asia;Asia;Sri Lanka;6299358;554091;Asia
+2012;Europe;Europe;Albania;2006;0;Europe
+2012;Europe;Europe;Croatia;56477363;13189;Europe
+2012;Europe;Europe;Greece;64838755;32091959;Europe
+2012;Europe;Europe;Italy;301119499;427080943;Europe
+2012;Europe;Europe;Malta;509858;128;Europe
+2012;Europe;Europe;Montenegro;1956;0;Europe
+2012;Europe;Europe;Portugal;501102;26876963;Europe
+2012;Europe;Europe;Serbia;17713;10425;Europe
+2012;Europe;Europe;Slovenia;32182;203138;Europe
+2012;Europe;Europe;Spain;49434346;1185763969;Europe
+2012;Africa;NA;Cabo Verde;53142;1931;Africa
+2012;Africa;Africa;Burkina Faso;392;0;Africa
+2012;Africa;Africa;Ghana;149429;0;Africa
+2012;Africa;Africa;Mauritania;781347;0;Africa
+2012;Africa;Africa;Niger;98;0;Africa
+2012;Africa;Africa;Nigeria;56026;0;Africa
+2012;Africa;Africa;Senegal;139795;0;Africa
+2012;Africa;Africa;Togo;10901;0;Africa
+2012;Asia;Asia;Armenia;420;0;Asia
+2012;Asia;Asia;Azerbaijan;8449705;0;Asia
+2012;Asia;Asia;Cyprus;33930;0;Asia
+2012;Asia;Asia;Georgia;11445;0;Asia
+2012;Asia;Asia;Israel;90000;354000;Asia
+2012;Asia;Asia;Jordan;21389;0;Asia
+2012;Asia;Asia;Lebanon;99988;0;Asia
+2012;Asia;Asia;Oman;22570;0;Asia
+2012;Asia;Asia;Saudi Arabia;713868;0;Asia
+2012;Asia;Asia;Turkey;288140683;78622;Asia
+2012;Asia;Asia;United Arab Emirates;304728;213495;Asia
+2012;Asia;Asia;Yemen;26169;0;Asia
+2012;Europe;Europe;Austria;7211665;140499;Europe
+2012;Europe;Europe;Belgium;13817897;3022931;Europe
+2012;Europe;Europe;France;226188714;4279100;Europe
+2012;Europe;Europe;Germany;242070119;3155966412;Europe
+2012;Europe;Europe;Luxembourg;20960;180141;Europe
+2012;Europe;Europe;Netherlands;65168946;19518025;Europe
+2012;Europe;Europe;Switzerland;5801614;325234;Europe
+2013;NA;NA;Bolivia (Plurinational State of);2407654;0;Americas
+2013;NA;NA;China, Hong Kong SAR;12265;0;Asia
+2013;NA;NA;Côte d'Ivoire;7843;0;Africa
+2013;NA;NA;Iran;3241;0;Asia
+2013;NA;NA;Lao People's Dem. Rep.;40909;0;Asia
+2013;NA;NA;Mozambique;280;0;Africa
+2013;NA;NA;North Macedonia;19286072;1279;Europe
+2013;NA;NA;Other Asia, nes;52626922;3050050;Asia
+2013;NA;NA;Rep. of Korea;2147180;3655106;Asia
+2013;NA;NA;Rep. of Moldova;59756;0;Europe
+2013;NA;NA;State of Palestine;99798;0;Asia
+2013;NA;NA;Venezuela;52284255;0;Americas
+2013;NA;Americas;Dominican Rep.;17051;0;Americas
+2013;NA;Africa;United Rep. of Tanzania;98841;0;Africa
+2013;NA;Europe;Czechia;1226534;1547017;Europe
+2013;NA;Oceania;Solomon Isds;1131;0;Oceania
+2013;NA;Americas;USA;14643973;425730305;Americas
+2013;NA;Africa;Eswatini;13578;38;Africa
+2013;NA;Europe;Bosnia Herzegovina;437006;623699;Europe
+2013;Oceania;Oceania;Australia;169073298;738875;Oceania
+2013;Oceania;Oceania;New Zealand;171106;351425;Oceania
+2013;Americas;NA;Bahamas;27648;0;Americas
+2013;Americas;NA;Saint Kitts and Nevis;29380;0;Americas
+2013;Americas;NA;Saint Lucia;4187;19606;Americas
+2013;Americas;NA;Saint Vincent and the Grenadines;444;0;Americas
+2013;Americas;Americas;Antigua and Barbuda;593;0;Americas
+2013;Americas;Americas;Aruba;174935;0;Americas
+2013;Americas;Americas;Barbados;29206;0;Americas
+2013;Americas;Americas;Jamaica;123295;10892;Americas
+2013;Americas;Americas;Trinidad and Tobago;7485;0;Americas
+2013;Americas;Americas;Belize;38382;0;Americas
+2013;Americas;Americas;Costa Rica;3122;0;Americas
+2013;Americas;Americas;El Salvador;1522;0;Americas
+2013;Americas;Americas;Guatemala;77467;21482;Americas
+2013;Americas;Americas;Mexico;300430153;3883902;Americas
+2013;Americas;Americas;Nicaragua;294567;0;Americas
+2013;Americas;Americas;Panama;16271;111789;Americas
+2013;Asia;Asia;Kazakhstan;7736740;5295;Asia
+2013;Asia;Asia;Kyrgyzstan;59106;0;Asia
+2013;Africa;Africa;Burundi;667568;0;Africa
+2013;Africa;Africa;Comoros;115;0;Africa
+2013;Africa;Africa;Ethiopia;59098970;266843;Africa
+2013;Africa;Africa;Kenya;96651;78038;Africa
+2013;Africa;Africa;Madagascar;5486;0;Africa
+2013;Africa;Africa;Malawi;56735;0;Africa
+2013;Africa;Africa;Mauritius;1779;0;Africa
+2013;Africa;Africa;Seychelles;1083;0;Africa
+2013;Africa;Africa;Uganda;4750;0;Africa
+2013;Africa;Africa;Zambia;74632;0;Africa
+2013;Asia;Asia;China;9874401;467551421;Asia
+2013;Asia;Asia;Japan;46556440;2363128;Asia
+2013;Asia;Asia;Mongolia;10062;125;Asia
+2013;Europe;NA;Belarus;2780600;1200;Europe
+2013;Europe;NA;Russian Federation;1073651568;41000;Europe
+2013;Europe;Europe;Bulgaria;5419477;10067892;Europe
+2013;Europe;Europe;Hungary;718133;14142;Europe
+2013;Europe;Europe;Poland;214979564;19878235;Europe
+2013;Europe;Europe;Romania;204374308;177661;Europe
+2013;Europe;Europe;Slovakia;49279;0;Europe
+2013;Europe;Europe;Ukraine;32523929;104420;Europe
+2013;Oceania;Oceania;Fiji;262440;0;Oceania
+2013;Oceania;Oceania;New Caledonia;66743;0;Oceania
+2013;Oceania;NA;Palau;2738;0;Oceania
+2013;Africa;Africa;Angola;632466;0;Africa
+2013;Africa;Africa;Cameroon;2938;0;Africa
+2013;Africa;Africa;Congo;15032;0;Africa
+2013;Africa;Africa;Algeria;5105;0;Africa
+2013;Africa;Africa;Egypt;130342365;0;Africa
+2013;Africa;Africa;Morocco;59445457;36522;Africa
+2013;Africa;Africa;Tunisia;33458;0;Africa
+2013;Americas;Americas;Bermuda;26684;0;Americas
+2013;Americas;Americas;Canada;634157627;9773467;Americas
+2013;Europe;Europe;Denmark;0;2864460797;Europe
+2013;Europe;Europe;Estonia;6272217;54610483;Europe
+2013;Europe;Europe;Finland;11797629;359840;Europe
+2013;Europe;Europe;Iceland;506516;0;Europe
+2013;Europe;Europe;Ireland;24204680;12178622;Europe
+2013;Europe;Europe;Latvia;3645989;202566;Europe
+2013;Europe;Europe;Lithuania;550034;0;Europe
+2013;Europe;Europe;Norway;2487702;3560945;Europe
+2013;Europe;Europe;Sweden;153430865;960175;Europe
+2013;Europe;Europe;United Kingdom;753853746;2323962;Europe
+2013;Oceania;Oceania;French Polynesia;5028;0;Oceania
+2013;Americas;Americas;Argentina;298227;38000;Americas
+2013;Americas;Americas;Brazil;376684347;17809790;Americas
+2013;Americas;Americas;Chile;336936303;933007;Americas
+2013;Americas;Americas;Colombia;48154;0;Americas
+2013;Americas;Americas;Ecuador;5424584;0;Americas
+2013;Americas;Americas;Guyana;9397;0;Americas
+2013;Americas;Americas;Peru;96948822;0;Americas
+2013;Americas;Americas;Uruguay;127032282;7476;Americas
+2013;Asia;NA;Brunei Darussalam;315347;6593;Asia
+2013;Asia;NA;Myanmar;725387;0;Asia
+2013;Asia;NA;Timor-Leste;2807;0;Asia
+2013;Asia;NA;Viet Nam;60806;77376627;Asia
+2013;Asia;Asia;Cambodia;12489;0;Asia
+2013;Asia;Asia;Indonesia;1409339;0;Asia
+2013;Asia;Asia;Malaysia;139915;116447;Asia
+2013;Asia;Asia;Philippines;275325;500;Asia
+2013;Asia;Asia;Singapore;1150048;1383466;Asia
+2013;Asia;Asia;Thailand;3121173;1313141;Asia
+2013;Africa;Africa;Botswana;5647;0;Africa
+2013;Africa;Africa;Lesotho;769;0;Africa
+2013;Africa;Africa;Namibia;21616;0;Africa
+2013;Africa;Africa;South Africa;580371576;65907;Africa
+2013;Asia;Asia;India;5145008;76292617;Asia
+2013;Asia;Asia;Nepal;5532;0;Asia
+2013;Asia;Asia;Pakistan;79706233;0;Asia
+2013;Asia;Asia;Sri Lanka;25304187;0;Asia
+2013;Europe;Europe;Albania;37070;0;Europe
+2013;Europe;Europe;Croatia;50114589;166204;Europe
+2013;Europe;Europe;Greece;87858092;32078325;Europe
+2013;Europe;Europe;Italy;166982420;5034670;Europe
+2013;Europe;Europe;Malta;6258;23910;Europe
+2013;Europe;Europe;Montenegro;3901;0;Europe
+2013;Europe;Europe;Portugal;6544409;13124964;Europe
+2013;Europe;Europe;Serbia;4386;848;Europe
+2013;Europe;Europe;Slovenia;23410;6111;Europe
+2013;Europe;Europe;Spain;3252390;893855172;Europe
+2013;Africa;NA;Cabo Verde;4564;0;Africa
+2013;Africa;NA;Gambia;83;0;Africa
+2013;Africa;Africa;Burkina Faso;0;38488;Africa
+2013;Africa;Africa;Ghana;11380;0;Africa
+2013;Africa;Africa;Guinea;4312;0;Africa
+2013;Africa;Africa;Niger;641;0;Africa
+2013;Africa;Africa;Nigeria;29493;27731;Africa
+2013;Africa;Africa;Senegal;14231;0;Africa
+2013;Asia;Asia;Armenia;1526;0;Asia
+2013;Asia;Asia;Azerbaijan;37550544;0;Asia
+2013;Asia;Asia;Bahrain;13523;23966;Asia
+2013;Asia;Asia;Cyprus;2445;304;Asia
+2013;Asia;Asia;Georgia;6388;0;Asia
+2013;Asia;Asia;Israel;25000;3244000;Asia
+2013;Asia;Asia;Jordan;130394;4073;Asia
+2013;Asia;Asia;Kuwait;13126;0;Asia
+2013;Asia;Asia;Lebanon;126790;200;Asia
+2013;Asia;Asia;Oman;13033;0;Asia
+2013;Asia;Asia;Qatar;6242;0;Asia
+2013;Asia;Asia;Turkey;473713985;3292646;Asia
+2013;Asia;Asia;United Arab Emirates;157560;18069;Asia
+2013;Asia;Asia;Yemen;42023;0;Asia
+2013;Europe;Europe;Austria;23361921;102989;Europe
+2013;Europe;Europe;Belgium;16611661;3129498;Europe
+2013;Europe;Europe;France;28791368;5086457;Europe
+2013;Europe;Europe;Germany;248177780;2855230124;Europe
+2013;Europe;Europe;Luxembourg;239744;684;Europe
+2013;Europe;Europe;Netherlands;26741349;24316242;Europe
+2013;Europe;Europe;Switzerland;8966047;693584;Europe
+2014;NA;NA;Bolivia (Plurinational State of);838;3843;Americas
+2014;NA;NA;China, Hong Kong SAR;105796;74042;Asia
+2014;NA;NA;Iran;793334;339200;Asia
+2014;NA;NA;North Macedonia;20063898;0;Europe
+2014;NA;NA;Other Asia, nes;5892082;722430;Asia
+2014;NA;NA;Rep. of Korea;54248528;8950324;Asia
+2014;NA;NA;Rep. of Moldova;6507;0;Europe
+2014;NA;NA;State of Palestine;374264;683;Asia
+2014;NA;Americas;Dominican Rep.;21066;675;Americas
+2014;NA;Africa;United Rep. of Tanzania;837296;0;Africa
+2014;NA;Europe;Czechia;4732480;1809322;Europe
+2014;NA;Oceania;Solomon Isds;30386;0;Oceania
+2014;NA;Americas;USA;187679978;543348915;Americas
+2014;NA;Africa;Eswatini;8143;2468;Africa
+2014;NA;Europe;Bosnia Herzegovina;515292;669346;Europe
+2014;Oceania;Oceania;Australia;70338882;5134080;Oceania
+2014;Oceania;Oceania;New Zealand;54781737;243638;Oceania
+2014;Americas;NA;Bahamas;7775;0;Americas
+2014;Americas;NA;Saint Kitts and Nevis;148;0;Americas
+2014;Americas;NA;Saint Lucia;11795;10427;Americas
+2014;Americas;NA;Saint Vincent and the Grenadines;388;0;Americas
+2014;Americas;Americas;Antigua and Barbuda;545;0;Americas
+2014;Americas;Americas;Aruba;103304;0;Americas
+2014;Americas;Americas;Barbados;17457;0;Americas
+2014;Americas;Americas;Jamaica;2432;0;Americas
+2014;Americas;Americas;Trinidad and Tobago;3441;0;Americas
+2014;Americas;Americas;Belize;31344;0;Americas
+2014;Americas;Americas;Costa Rica;41244947;6195;Americas
+2014;Americas;Americas;Guatemala;3454;0;Americas
+2014;Americas;Americas;Honduras;15969632;0;Americas
+2014;Americas;Americas;Mexico;457927102;41401;Americas
+2014;Americas;Americas;Nicaragua;92767;0;Americas
+2014;Americas;Americas;Panama;4169;26438;Americas
+2014;Asia;Asia;Kazakhstan;3090652;0;Asia
+2014;Africa;Africa;Burundi;95;0;Africa
+2014;Africa;Africa;Comoros;372;0;Africa
+2014;Africa;Africa;Ethiopia;98836178;0;Africa
+2014;Africa;Africa;Madagascar;12834;0;Africa
+2014;Africa;Africa;Malawi;1205;0;Africa
+2014;Africa;Africa;Mauritius;15349;0;Africa
+2014;Africa;Africa;Rwanda;2182;0;Africa
+2014;Africa;Africa;Uganda;83763;0;Africa
+2014;Africa;Africa;Zambia;2043;0;Africa
+2014;Africa;Africa;Zimbabwe;3441;0;Africa
+2014;Asia;Asia;China;8572379;302319237;Asia
+2014;Asia;Asia;Japan;85341977;1669201;Asia
+2014;Asia;Asia;Mongolia;167180;0;Asia
+2014;Europe;NA;Belarus;4338800;0;Europe
+2014;Europe;NA;Russian Federation;536641175;131920;Europe
+2014;Europe;Europe;Bulgaria;5643219;476003;Europe
+2014;Europe;Europe;Hungary;476583;0;Europe
+2014;Europe;Europe;Poland;144134431;5119079;Europe
+2014;Europe;Europe;Romania;115862257;1371149;Europe
+2014;Europe;Europe;Slovakia;288727;371950;Europe
+2014;Europe;Europe;Ukraine;12132586;40045;Europe
+2014;Oceania;Oceania;Fiji;9276;0;Oceania
+2014;Oceania;Oceania;New Caledonia;21207;0;Oceania
+2014;Africa;Africa;Angola;26038;0;Africa
+2014;Africa;Africa;Cameroon;15835;0;Africa
+2014;Africa;Africa;Congo;7062;0;Africa
+2014;Africa;Africa;Algeria;29154;0;Africa
+2014;Africa;Africa;Egypt;51366;0;Africa
+2014;Africa;Africa;Morocco;64042234;19964;Africa
+2014;Africa;Africa;Sudan;6618;0;Africa
+2014;Africa;Africa;Tunisia;13120;154853;Africa
+2014;Americas;Americas;Bermuda;900;0;Americas
+2014;Americas;Americas;Canada;601882383;12810170;Americas
+2014;Europe;Europe;Denmark;0;3742704277;Europe
+2014;Europe;Europe;Estonia;547722;28172429;Europe
+2014;Europe;Europe;Finland;111334007;10808906;Europe
+2014;Europe;Europe;Iceland;20416;0;Europe
+2014;Europe;Europe;Ireland;417043;17383716;Europe
+2014;Europe;Europe;Latvia;50229;78975;Europe
+2014;Europe;Europe;Lithuania;916139;2448622;Europe
+2014;Europe;Europe;Norway;46501809;381242;Europe
+2014;Europe;Europe;Sweden;143629529;295472;Europe
+2014;Europe;Europe;United Kingdom;593520935;4010689;Europe
+2014;Oceania;NA;Samoa;612249;0;Oceania
+2014;Oceania;Oceania;French Polynesia;8142;0;Oceania
+2014;Oceania;Oceania;Tonga;845;0;Oceania
+2014;Americas;Americas;Argentina;33057;58947;Americas
+2014;Americas;Americas;Brazil;269027624;15017147;Americas
+2014;Americas;Americas;Chile;244634143;2338;Americas
+2014;Americas;Americas;Colombia;14700;1927;Americas
+2014;Americas;Americas;Ecuador;22195;0;Americas
+2014;Americas;Americas;Guyana;7988;0;Americas
+2014;Americas;Americas;Paraguay;67608;0;Americas
+2014;Americas;Americas;Peru;9442;0;Americas
+2014;Americas;Americas;Uruguay;269941075;0;Americas
+2014;Asia;NA;Brunei Darussalam;1239958;0;Asia
+2014;Asia;NA;Myanmar;564758;0;Asia
+2014;Asia;NA;Viet Nam;26718;70169584;Asia
+2014;Asia;Asia;Cambodia;222;0;Asia
+2014;Asia;Asia;Indonesia;190577;24740;Asia
+2014;Asia;Asia;Malaysia;543435;18645;Asia
+2014;Asia;Asia;Philippines;640757;0;Asia
+2014;Asia;Asia;Singapore;41585;603014;Asia
+2014;Asia;Asia;Thailand;12855147;1624606;Asia
+2014;Africa;Africa;Botswana;32824;0;Africa
+2014;Africa;Africa;Lesotho;1632;0;Africa
+2014;Africa;Africa;Namibia;4915;0;Africa
+2014;Africa;Africa;South Africa;380296960;288077;Africa
+2014;Asia;Asia;India;200624;83026901;Asia
+2014;Asia;Asia;Nepal;36901;0;Asia
+2014;Asia;Asia;Pakistan;5788676;332441;Asia
+2014;Asia;Asia;Sri Lanka;36971668;0;Asia
+2014;Europe;Europe;Croatia;11448487;57441;Europe
+2014;Europe;Europe;Greece;67348371;21761680;Europe
+2014;Europe;Europe;Italy;38002702;2269704;Europe
+2014;Europe;Europe;Malta;3604;0;Europe
+2014;Europe;Europe;Portugal;1560409;42235868;Europe
+2014;Europe;Europe;Serbia;35453;0;Europe
+2014;Europe;Europe;Slovenia;23729;1505;Europe
+2014;Europe;Europe;Spain;11243558;1560590306;Europe
+2014;Africa;NA;Gambia;28610;0;Africa
+2014;Africa;Africa;Burkina Faso;69182;0;Africa
+2014;Africa;Africa;Ghana;1283;0;Africa
+2014;Africa;Africa;Mauritania;457;0;Africa
+2014;Africa;Africa;Niger;54;0;Africa
+2014;Africa;Africa;Nigeria;27433;0;Africa
+2014;Africa;Africa;Senegal;4510;0;Africa
+2014;Asia;Asia;Armenia;132975;0;Asia
+2014;Asia;Asia;Azerbaijan;17806355;0;Asia
+2014;Asia;Asia;Bahrain;185;12550;Asia
+2014;Asia;Asia;Cyprus;19438;0;Asia
+2014;Asia;Asia;Georgia;7453;0;Asia
+2014;Asia;Asia;Israel;113000;3000;Asia
+2014;Asia;Asia;Jordan;679;0;Asia
+2014;Asia;Asia;Kuwait;820492;0;Asia
+2014;Asia;Asia;Lebanon;32950;0;Asia
+2014;Asia;Asia;Oman;0;2590;Asia
+2014;Asia;Asia;Qatar;228447;0;Asia
+2014;Asia;Asia;Saudi Arabia;126986;0;Asia
+2014;Asia;Asia;Turkey;349698878;305643;Asia
+2014;Asia;Asia;United Arab Emirates;274185;0;Asia
+2014;Asia;Asia;Yemen;224455;4527;Asia
+2014;Europe;Europe;Austria;26041849;924059;Europe
+2014;Europe;Europe;Belgium;273739330;6159043;Europe
+2014;Europe;Europe;France;150680604;4366439;Europe
+2014;Europe;Europe;Germany;547182482;2206936823;Europe
+2014;Europe;Europe;Luxembourg;2529;1011;Europe
+2014;Europe;Europe;Netherlands;69647901;45503995;Europe
+2014;Europe;Europe;Switzerland;330952;160871;Europe
+2015;NA;NA;Bolivia (Plurinational State of);29994601;100;Americas
+2015;NA;NA;China, Hong Kong SAR;11175;42487;Asia
+2015;NA;NA;Côte d'Ivoire;348095;461831;Africa
+2015;NA;NA;Iran;39538523;284020;Asia
+2015;NA;NA;Lao People's Dem. Rep.;4550;0;Asia
+2015;NA;NA;North Macedonia;2899;0;Europe
+2015;NA;NA;Other Asia, nes;15332106;510448;Asia
+2015;NA;NA;Rep. of Korea;14202726;1753587;Asia
+2015;NA;NA;Rep. of Moldova;438956;0;Europe
+2015;NA;NA;State of Palestine;248391;3200;Asia
+2015;NA;Americas;Dominican Rep.;10474;0;Americas
+2015;NA;Africa;United Rep. of Tanzania;376056;0;Africa
+2015;NA;Europe;Czechia;85651;1001103;Europe
+2015;NA;Oceania;Solomon Isds;318809;0;Oceania
+2015;NA;Americas;USA;234213686;148913548;Americas
+2015;NA;Africa;Eswatini;88469;0;Africa
+2015;NA;Europe;Bosnia Herzegovina;145764;639974;Europe
+2015;Oceania;Oceania;Australia;511398;144666;Oceania
+2015;Oceania;Oceania;New Zealand;4423750;0;Oceania
+2015;Americas;NA;Bahamas;20439;0;Americas
+2015;Americas;NA;Saint Kitts and Nevis;1702;0;Americas
+2015;Americas;NA;Saint Lucia;44336;473;Americas
+2015;Americas;NA;Saint Vincent and the Grenadines;6786;0;Americas
+2015;Americas;Americas;Antigua and Barbuda;5820;0;Americas
+2015;Americas;Americas;Aruba;1450;0;Americas
+2015;Americas;Americas;Barbados;5438;0;Americas
+2015;Americas;Americas;Jamaica;4920;0;Americas
+2015;Americas;Americas;Trinidad and Tobago;11022;9508;Americas
+2015;Americas;Americas;Belize;488;0;Americas
+2015;Americas;Americas;Costa Rica;27491270;20733;Americas
+2015;Americas;Americas;El Salvador;36731;0;Americas
+2015;Americas;Americas;Honduras;130675;94800;Americas
+2015;Americas;Americas;Mexico;393312735;0;Americas
+2015;Americas;Americas;Nicaragua;19757;0;Americas
+2015;Asia;Asia;Kazakhstan;97689092;0;Asia
+2015;Africa;Africa;Ethiopia;1170879;388223;Africa
+2015;Africa;Africa;Kenya;29475503;6267;Africa
+2015;Africa;Africa;Madagascar;38877;0;Africa
+2015;Africa;Africa;Malawi;2127;0;Africa
+2015;Africa;Africa;Mauritius;3686;0;Africa
+2015;Africa;Africa;Rwanda;45796;0;Africa
+2015;Africa;Africa;Uganda;2233;0;Africa
+2015;Africa;Africa;Zambia;10652;0;Africa
+2015;Africa;Africa;Zimbabwe;1210;0;Africa
+2015;Asia;Asia;China;1523648;290359684;Asia
+2015;Asia;Asia;Japan;87578153;2087536;Asia
+2015;Asia;Asia;Mongolia;100220;0;Asia
+2015;Europe;NA;Belarus;18405200;0;Europe
+2015;Europe;NA;Russian Federation;86358702;340995;Europe
+2015;Europe;Europe;Bulgaria;1931317;8693426;Europe
+2015;Europe;Europe;Hungary;11517;1690;Europe
+2015;Europe;Europe;Poland;243620427;6496549;Europe
+2015;Europe;Europe;Romania;10538713;275643;Europe
+2015;Europe;Europe;Slovakia;6246;256;Europe
+2015;Europe;Europe;Ukraine;1033;313572;Europe
+2015;Oceania;Oceania;Fiji;3415;0;Oceania
+2015;Oceania;Oceania;New Caledonia;18918;0;Oceania
+2015;Africa;Africa;Angola;246174;0;Africa
+2015;Africa;Africa;Cameroon;489635;0;Africa
+2015;Africa;Africa;Congo;95024;0;Africa
+2015;Africa;Africa;Algeria;28195;0;Africa
+2015;Africa;Africa;Egypt;13637;0;Africa
+2015;Africa;Africa;Morocco;89466;0;Africa
+2015;Africa;Africa;Sudan;33458;0;Africa
+2015;Africa;Africa;Tunisia;3816;617;Africa
+2015;Americas;Americas;Bermuda;2184;0;Americas
+2015;Americas;Americas;Canada;430536525;7965344;Americas
+2015;Europe;Europe;Denmark;0;3303414112;Europe
+2015;Europe;Europe;Estonia;1199675;34984204;Europe
+2015;Europe;Europe;Finland;101997042;64452;Europe
+2015;Europe;Europe;Iceland;41683;0;Europe
+2015;Europe;Europe;Ireland;105462;9662591;Europe
+2015;Europe;Europe;Latvia;8052;0;Europe
+2015;Europe;Europe;Lithuania;2106608;4918806;Europe
+2015;Europe;Europe;Norway;10418714;0;Europe
+2015;Europe;Europe;Sweden;155924627;1245144;Europe
+2015;Europe;Europe;United Kingdom;340821078;9110586;Europe
+2015;Oceania;Oceania;French Polynesia;3408;0;Oceania
+2015;Americas;Americas;Argentina;134106;7445;Americas
+2015;Americas;Americas;Brazil;137372228;526760;Americas
+2015;Americas;Americas;Chile;104848127;4685;Americas
+2015;Americas;Americas;Colombia;47963;0;Americas
+2015;Americas;Americas;Ecuador;18929;0;Americas
+2015;Americas;Americas;Guyana;4382;0;Americas
+2015;Americas;Americas;Paraguay;6214;0;Americas
+2015;Americas;Americas;Peru;51282880;0;Americas
+2015;Americas;Americas;Uruguay;482598240;0;Americas
+2015;Asia;NA;Brunei Darussalam;503358;3645;Asia
+2015;Asia;NA;Myanmar;685111;0;Asia
+2015;Asia;NA;Viet Nam;58562542;59890856;Asia
+2015;Asia;Asia;Indonesia;652293;6025;Asia
+2015;Asia;Asia;Malaysia;521628;18229;Asia
+2015;Asia;Asia;Philippines;973860;9126;Asia
+2015;Asia;Asia;Singapore;187679;353978;Asia
+2015;Asia;Asia;Thailand;26794545;1033605;Asia
+2015;Africa;Africa;Botswana;28016;0;Africa
+2015;Africa;Africa;Lesotho;703;0;Africa
+2015;Africa;Africa;Namibia;104822;2287;Africa
+2015;Africa;Africa;South Africa;264766172;2907318;Africa
+2015;Asia;Asia;Bangladesh;10333;0;Asia
+2015;Asia;Asia;India;2326576;4651920;Asia
+2015;Asia;Asia;Maldives;3568;0;Asia
+2015;Asia;Asia;Nepal;43653;0;Asia
+2015;Asia;Asia;Pakistan;323760368;25885;Asia
+2015;Asia;Asia;Sri Lanka;2822429;2036270;Asia
+2015;Europe;Europe;Croatia;30976848;839;Europe
+2015;Europe;Europe;Greece;149368823;12669427;Europe
+2015;Europe;Europe;Italy;54070488;4863297;Europe
+2015;Europe;Europe;Malta;71234;19089;Europe
+2015;Europe;Europe;Montenegro;10189;0;Europe
+2015;Europe;Europe;Portugal;5559491;31324477;Europe
+2015;Europe;Europe;Serbia;8253030;0;Europe
+2015;Europe;Europe;Slovenia;55257;1810;Europe
+2015;Europe;Europe;Spain;16799660;1490034109;Europe
+2015;Africa;NA;Cabo Verde;14614;0;Africa
+2015;Africa;Africa;Burkina Faso;4318;0;Africa
+2015;Africa;Africa;Ghana;23483;0;Africa
+2015;Africa;Africa;Mauritania;118174;0;Africa
+2015;Africa;Africa;Nigeria;39068;0;Africa
+2015;Asia;Asia;Azerbaijan;644;0;Asia
+2015;Asia;Asia;Bahrain;45;0;Asia
+2015;Asia;Asia;Cyprus;1703;0;Asia
+2015;Asia;Asia;Georgia;110029;0;Asia
+2015;Asia;Asia;Israel;18205000;0;Asia
+2015;Asia;Asia;Jordan;8860589;0;Asia
+2015;Asia;Asia;Kuwait;120034;1632;Asia
+2015;Asia;Asia;Lebanon;3871;0;Asia
+2015;Asia;Asia;Oman;865997;17778;Asia
+2015;Asia;Asia;Qatar;564395;19842;Asia
+2015;Asia;Asia;Saudi Arabia;249961;0;Asia
+2015;Asia;Asia;Turkey;417518215;136698;Asia
+2015;Asia;Asia;United Arab Emirates;54269;39959;Asia
+2015;Asia;Asia;Yemen;59319;0;Asia
+2015;Europe;Europe;Austria;56394509;159163;Europe
+2015;Europe;Europe;Belgium;56040;1070276;Europe
+2015;Europe;Europe;France;75570164;2817714;Europe
+2015;Europe;Europe;Germany;446357174;2393674850;Europe
+2015;Europe;Europe;Luxembourg;2068;0;Europe
+2015;Europe;Europe;Netherlands;76086875;72494874;Europe
+2015;Europe;Europe;Switzerland;666059;102424;Europe
+2016;NA;NA;Bolivia (Plurinational State of);41192;500;Americas
+2016;NA;NA;China, Hong Kong SAR;82933;45218;Asia
+2016;NA;NA;Côte d'Ivoire;3322;0;Africa
+2016;NA;NA;Iran;47644709;12983;Asia
+2016;NA;NA;Mozambique;23088;0;Africa
+2016;NA;NA;North Macedonia;8492;0;Europe
+2016;NA;NA;Other Asia, nes;35442953;532785;Asia
+2016;NA;NA;Rep. of Korea;52333164;603809;Asia
+2016;NA;NA;Rep. of Moldova;969399;0;Europe
+2016;NA;NA;State of Palestine;912228;29925;Asia
+2016;NA;Americas;Dominican Rep.;4214;0;Americas
+2016;NA;Africa;United Rep. of Tanzania;65339;0;Africa
+2016;NA;Europe;Czechia;54759;2093984;Europe
+2016;NA;Americas;USA;125366966;16517870;Americas
+2016;NA;Africa;Eswatini;59;0;Africa
+2016;NA;Europe;Bosnia Herzegovina;14790;0;Europe
+2016;Oceania;Oceania;Australia;179655051;1621162;Oceania
+2016;Oceania;Oceania;New Zealand;3678820;1758338;Oceania
+2016;Americas;NA;Bahamas;2089;0;Americas
+2016;Americas;NA;Saint Kitts and Nevis;2558;0;Americas
+2016;Americas;NA;Saint Lucia;14185;16994;Americas
+2016;Americas;NA;Saint Vincent and the Grenadines;112;0;Americas
+2016;Americas;Americas;Antigua and Barbuda;641;111;Americas
+2016;Americas;Americas;Aruba;462;0;Americas
+2016;Americas;Americas;Barbados;6444;0;Americas
+2016;Americas;Americas;Jamaica;6956;0;Americas
+2016;Americas;Americas;Belize;10804;0;Americas
+2016;Americas;Americas;Costa Rica;54862527;6822;Americas
+2016;Americas;Americas;Guatemala;4892;0;Americas
+2016;Americas;Americas;Honduras;1055969;0;Americas
+2016;Americas;Americas;Mexico;398105327;0;Americas
+2016;Americas;Americas;Nicaragua;54373;0;Americas
+2016;Americas;Americas;Panama;22975;865;Americas
+2016;Asia;Asia;Kazakhstan;14293079;380;Asia
+2016;Asia;Asia;Kyrgyzstan;262;0;Asia
+2016;Africa;Africa;Burundi;6944;6506;Africa
+2016;Africa;Africa;Comoros;99;0;Africa
+2016;Africa;Africa;Ethiopia;30299;0;Africa
+2016;Africa;Africa;Kenya;126004637;0;Africa
+2016;Africa;Africa;Madagascar;17079;0;Africa
+2016;Africa;Africa;Malawi;59;0;Africa
+2016;Africa;Africa;Mauritius;2930;0;Africa
+2016;Africa;Africa;Rwanda;7049;0;Africa
+2016;Africa;Africa;Seychelles;371;0;Africa
+2016;Africa;Africa;Uganda;1119;0;Africa
+2016;Africa;Africa;Zambia;1975;0;Africa
+2016;Africa;Africa;Zimbabwe;2462;0;Africa
+2016;Asia;Asia;China;1745415;586643803;Asia
+2016;Asia;Asia;Japan;73819128;117127;Asia
+2016;Asia;Asia;Mongolia;65363;0;Asia
+2016;Europe;NA;Belarus;3364700;0;Europe
+2016;Europe;NA;Russian Federation;17652634;81065;Europe
+2016;Europe;Europe;Bulgaria;1193364;1882;Europe
+2016;Europe;Europe;Hungary;4422;102420;Europe
+2016;Europe;Europe;Poland;26158290;4270871;Europe
+2016;Europe;Europe;Romania;230217;1028108;Europe
+2016;Europe;Europe;Slovakia;53706;0;Europe
+2016;Europe;Europe;Ukraine;7046485;25234;Europe
+2016;Oceania;Oceania;Fiji;1273;0;Oceania
+2016;Oceania;NA;Palau;125077;1041;Oceania
+2016;Africa;Africa;Angola;4299;0;Africa
+2016;Africa;Africa;Cameroon;27233;0;Africa
+2016;Africa;Africa;Congo;3372;44141;Africa
+2016;Africa;Africa;Algeria;2242;0;Africa
+2016;Africa;Africa;Egypt;129797100;0;Africa
+2016;Africa;Africa;Libya;67720;0;Africa
+2016;Africa;Africa;Morocco;40734;698723;Africa
+2016;Africa;Africa;Sudan;3859;0;Africa
+2016;Africa;Africa;Tunisia;28526;0;Africa
+2016;Americas;Americas;Bermuda;5689;0;Americas
+2016;Americas;Americas;Canada;105288997;10322703;Americas
+2016;Europe;Europe;Denmark;10002326;3422809544;Europe
+2016;Europe;Europe;Estonia;245444;27563622;Europe
+2016;Europe;Europe;Finland;130426689;17330;Europe
+2016;Europe;Europe;Iceland;12059;0;Europe
+2016;Europe;Europe;Ireland;30236741;10286180;Europe
+2016;Europe;Europe;Latvia;33448;0;Europe
+2016;Europe;Europe;Lithuania;7355618;1592343;Europe
+2016;Europe;Europe;Norway;3201105;11238;Europe
+2016;Europe;Europe;Sweden;72777562;1003194;Europe
+2016;Europe;Europe;United Kingdom;339189626;6222655;Europe
+2016;Americas;Americas;Argentina;407981;2789;Americas
+2016;Americas;Americas;Brazil;46244765;1300001;Americas
+2016;Americas;Americas;Chile;409109655;82266;Americas
+2016;Americas;Americas;Colombia;3457;0;Americas
+2016;Americas;Americas;Ecuador;53836;0;Americas
+2016;Americas;Americas;Guyana;3128;0;Americas
+2016;Americas;Americas;Peru;64726;5355;Americas
+2016;Americas;Americas;Uruguay;435424925;0;Americas
+2016;Asia;NA;Brunei Darussalam;297343;35187;Asia
+2016;Asia;NA;Myanmar;865245;0;Asia
+2016;Asia;NA;Viet Nam;262253;20050529;Asia
+2016;Asia;Asia;Cambodia;57499;0;Asia
+2016;Asia;Asia;Indonesia;153509;26000;Asia
+2016;Asia;Asia;Malaysia;337390;75706;Asia
+2016;Asia;Asia;Philippines;253284;0;Asia
+2016;Asia;Asia;Singapore;68205;662343;Asia
+2016;Asia;Asia;Thailand;53603210;181724;Asia
+2016;Africa;Africa;Botswana;2199;0;Africa
+2016;Africa;Africa;Lesotho;11911;0;Africa
+2016;Africa;Africa;Namibia;29459;2879;Africa
+2016;Africa;Africa;South Africa;387857562;124222;Africa
+2016;Asia;Asia;India;7012056;8099848;Asia
+2016;Asia;Asia;Nepal;2608;0;Asia
+2016;Asia;Asia;Pakistan;380429669;206999;Asia
+2016;Asia;Asia;Sri Lanka;2290027;1433001;Asia
+2016;Europe;Europe;Croatia;24245307;2169;Europe
+2016;Europe;Europe;Greece;242153003;26106654;Europe
+2016;Europe;Europe;Italy;60808395;2958942;Europe
+2016;Europe;Europe;Malta;629820;28746;Europe
+2016;Europe;Europe;Montenegro;30788483;0;Europe
+2016;Europe;Europe;Portugal;7118551;111544544;Europe
+2016;Europe;Europe;Serbia;4044351;8721;Europe
+2016;Europe;Europe;Slovenia;8297;0;Europe
+2016;Europe;Europe;Spain;25063748;1154877718;Europe
+2016;Africa;Africa;Benin;3749;0;Africa
+2016;Africa;Africa;Ghana;804;0;Africa
+2016;Africa;Africa;Guinea;21694;0;Africa
+2016;Africa;Africa;Mali;8;0;Africa
+2016;Africa;Africa;Mauritania;435537;0;Africa
+2016;Africa;Africa;Nigeria;95566;0;Africa
+2016;Asia;Asia;Azerbaijan;2008;0;Asia
+2016;Asia;Asia;Bahrain;70074;0;Asia
+2016;Asia;Asia;Cyprus;6863;252;Asia
+2016;Asia;Asia;Georgia;3512351;106401;Asia
+2016;Asia;Asia;Israel;875000;13000;Asia
+2016;Asia;Asia;Jordan;18344;0;Asia
+2016;Asia;Asia;Kuwait;3330955;0;Asia
+2016;Asia;Asia;Lebanon;43525;0;Asia
+2016;Asia;Asia;Oman;26626;0;Asia
+2016;Asia;Asia;Qatar;1255803;0;Asia
+2016;Asia;Asia;Saudi Arabia;1506135;0;Asia
+2016;Asia;Asia;Turkey;882622225;1355721;Asia
+2016;Asia;Asia;United Arab Emirates;3331835;54458;Asia
+2016;Europe;Europe;Austria;8311835;356893;Europe
+2016;Europe;Europe;Belgium;34705323;51513373;Europe
+2016;Europe;Europe;France;93110374;33828922;Europe
+2016;Europe;Europe;Germany;230071867;2186079870;Europe
+2016;Europe;Europe;Luxembourg;839;0;Europe
+2016;Europe;Europe;Netherlands;13015738;82217040;Europe
+2016;Europe;Europe;Switzerland;13003379;431787;Europe
+2017;NA;NA;Bolivia (Plurinational State of);212;0;Americas
+2017;NA;NA;China, Hong Kong SAR;12764;44621;Asia
+2017;NA;NA;Iran;68264461;0;Asia
+2017;NA;NA;Mozambique;5316;0;Africa
+2017;NA;NA;North Macedonia;596;0;Europe
+2017;NA;NA;Other Asia, nes;1453107;753388;Asia
+2017;NA;NA;Rep. of Korea;29235401;561877;Asia
+2017;NA;NA;Rep. of Moldova;2278007;0;Europe
+2017;NA;NA;State of Palestine;424401;7985;Asia
+2017;NA;Americas;Dominican Rep.;6256;0;Americas
+2017;NA;Africa;United Rep. of Tanzania;37331;0;Africa
+2017;NA;Europe;Czechia;43702;1144606;Europe
+2017;NA;Oceania;Solomon Isds;91;0;Oceania
+2017;NA;Africa;Central African Rep.;3857;0;Africa
+2017;NA;Americas;USA;211549260;19603122;Americas
+2017;NA;Africa;Eswatini;53335;0;Africa
+2017;NA;Europe;Bosnia Herzegovina;64777743;231668;Europe
+2017;Oceania;Oceania;Australia;293869746;3364479;Oceania
+2017;Oceania;Oceania;New Zealand;511314;6389;Oceania
+2017;Americas;NA;Bahamas;88512;0;Americas
+2017;Americas;NA;Saint Lucia;1515;2900;Americas
+2017;Americas;NA;Saint Vincent and the Grenadines;355;0;Americas
+2017;Americas;Americas;Antigua and Barbuda;9235;201;Americas
+2017;Americas;Americas;Aruba;1248;0;Americas
+2017;Americas;Americas;Barbados;8175;0;Americas
+2017;Americas;Americas;Jamaica;19781;0;Americas
+2017;Americas;Americas;Belize;59876;0;Americas
+2017;Americas;Americas;Costa Rica;2939;8731;Americas
+2017;Americas;Americas;El Salvador;711;0;Americas
+2017;Americas;Americas;Guatemala;6407144;0;Americas
+2017;Americas;Americas;Honduras;11454798;0;Americas
+2017;Americas;Americas;Mexico;176469055;9180;Americas
+2017;Americas;Americas;Nicaragua;53185;0;Americas
+2017;Americas;Americas;Panama;115767;9234;Americas
+2017;Asia;Asia;Kazakhstan;44957498;5045;Asia
+2017;Asia;Asia;Uzbekistan;520;0;Asia
+2017;Africa;Africa;Comoros;2733;17268;Africa
+2017;Africa;Africa;Ethiopia;27580;0;Africa
+2017;Africa;Africa;Kenya;14400676;22962;Africa
+2017;Africa;Africa;Madagascar;9075;0;Africa
+2017;Africa;Africa;Malawi;4722;0;Africa
+2017;Africa;Africa;Mauritius;661;0;Africa
+2017;Africa;Africa;Seychelles;2447;0;Africa
+2017;Africa;Africa;Uganda;635;0;Africa
+2017;Africa;Africa;Zambia;59094;0;Africa
+2017;Africa;Africa;Zimbabwe;4784;0;Africa
+2017;Asia;Asia;China;53765907;409450382;Asia
+2017;Asia;Asia;Japan;172638744;278424;Asia
+2017;Asia;Asia;Mongolia;15260715;0;Asia
+2017;Europe;NA;Belarus;6626500;105800;Europe
+2017;Europe;NA;Russian Federation;40826439;359397;Europe
+2017;Europe;Europe;Bulgaria;46622;9899;Europe
+2017;Europe;Europe;Hungary;11070;27675;Europe
+2017;Europe;Europe;Poland;349942;13632314;Europe
+2017;Europe;Europe;Romania;178496;1666984;Europe
+2017;Europe;Europe;Slovakia;7868;0;Europe
+2017;Europe;Europe;Ukraine;55974516;0;Europe
+2017;Oceania;Oceania;Fiji;6672;1119;Oceania
+2017;Oceania;NA;Palau;2151;0;Oceania
+2017;Africa;Africa;Angola;28;0;Africa
+2017;Africa;Africa;Cameroon;17906;0;Africa
+2017;Africa;Africa;Congo;4479;0;Africa
+2017;Africa;Africa;Algeria;2361;0;Africa
+2017;Africa;Africa;Egypt;52570185;0;Africa
+2017;Africa;Africa;Morocco;34808132;174262;Africa
+2017;Africa;Africa;Sudan;130943;0;Africa
+2017;Africa;Africa;Tunisia;1952;6422;Africa
+2017;Americas;Americas;Canada;324506089;1132345;Americas
+2017;Europe;Europe;Denmark;27194764;2057577407;Europe
+2017;Europe;Europe;Estonia;104817;26658068;Europe
+2017;Europe;Europe;Finland;79730065;183784;Europe
+2017;Europe;Europe;Iceland;25805;0;Europe
+2017;Europe;Europe;Ireland;7962673;18617264;Europe
+2017;Europe;Europe;Latvia;9371;127233;Europe
+2017;Europe;Europe;Lithuania;1572082;3835828;Europe
+2017;Europe;Europe;Norway;238521028;186406409;Europe
+2017;Europe;Europe;Sweden;36903831;65739;Europe
+2017;Europe;Europe;United Kingdom;710140677;4344199;Europe
+2017;Oceania;NA;Samoa;71022;4095;Oceania
+2017;Americas;Americas;Argentina;16738379;3008;Americas
+2017;Americas;Americas;Brazil;4621484;4806434;Americas
+2017;Americas;Americas;Chile;276617591;6597;Americas
+2017;Americas;Americas;Colombia;7101;0;Americas
+2017;Americas;Americas;Ecuador;3597;0;Americas
+2017;Americas;Americas;Guyana;505412;0;Americas
+2017;Americas;Americas;Paraguay;13232;0;Americas
+2017;Americas;Americas;Peru;24856;200;Americas
+2017;Americas;Americas;Uruguay;5253129;0;Americas
+2017;Asia;NA;Brunei Darussalam;804668;61748;Asia
+2017;Asia;NA;Myanmar;435731;0;Asia
+2017;Asia;NA;Timor-Leste;3586;0;Asia
+2017;Asia;NA;Viet Nam;6056242;0;Asia
+2017;Asia;Asia;Indonesia;51434379;0;Asia
+2017;Asia;Asia;Malaysia;1590035;168346;Asia
+2017;Asia;Asia;Philippines;1591085;0;Asia
+2017;Asia;Asia;Singapore;277314;1564082;Asia
+2017;Asia;Asia;Thailand;79091808;992494;Asia
+2017;Africa;Africa;Botswana;1976;0;Africa
+2017;Africa;Africa;Lesotho;0;147;Africa
+2017;Africa;Africa;Namibia;11391;0;Africa
+2017;Africa;Africa;South Africa;97039153;159478;Africa
+2017;Asia;Asia;India;8828652;18239271;Asia
+2017;Asia;Asia;Nepal;62563;0;Asia
+2017;Asia;Asia;Pakistan;322439253;0;Asia
+2017;Asia;Asia;Sri Lanka;618527;147028;Asia
+2017;Europe;Europe;Andorra;259;0;Europe
+2017;Europe;Europe;Croatia;31280169;18915642;Europe
+2017;Europe;Europe;Greece;191382898;6418505;Europe
+2017;Europe;Europe;Italy;27012788;4033236;Europe
+2017;Europe;Europe;Malta;13391;0;Europe
+2017;Europe;Europe;Portugal;221764;114278798;Europe
+2017;Europe;Europe;Serbia;2760;0;Europe
+2017;Europe;Europe;Slovenia;15422;5294;Europe
+2017;Europe;Europe;Spain;77838731;1168696286;Europe
+2017;Africa;NA;Cabo Verde;3826;0;Africa
+2017;Africa;NA;Gambia;9406;0;Africa
+2017;Africa;Africa;Ghana;622688;0;Africa
+2017;Africa;Africa;Mali;481;0;Africa
+2017;Africa;Africa;Mauritania;1226;0;Africa
+2017;Africa;Africa;Niger;2812;0;Africa
+2017;Africa;Africa;Nigeria;58131;0;Africa
+2017;Africa;Africa;Senegal;6638;0;Africa
+2017;Africa;Africa;Togo;11584;0;Africa
+2017;Asia;Asia;Armenia;1068;0;Asia
+2017;Asia;Asia;Azerbaijan;70700;0;Asia
+2017;Asia;Asia;Bahrain;739;0;Asia
+2017;Asia;Asia;Cyprus;2909;0;Asia
+2017;Asia;Asia;Georgia;2408;0;Asia
+2017;Asia;Asia;Israel;59000;310000;Asia
+2017;Asia;Asia;Jordan;663;0;Asia
+2017;Asia;Asia;Kuwait;437318;0;Asia
+2017;Asia;Asia;Lebanon;221523;4764;Asia
+2017;Asia;Asia;Oman;19282;0;Asia
+2017;Asia;Asia;Qatar;234019;0;Asia
+2017;Asia;Asia;Saudi Arabia;1730194;0;Asia
+2017;Asia;Asia;Turkey;251935220;397621;Asia
+2017;Asia;Asia;United Arab Emirates;86520;263957;Asia
+2017;Europe;Europe;Austria;40657094;1408456;Europe
+2017;Europe;Europe;Belgium;21110054;12657175;Europe
+2017;Europe;Europe;France;150418136;1368154;Europe
+2017;Europe;Europe;Germany;232305086;1272526114;Europe
+2017;Europe;Europe;Luxembourg;161727;127230;Europe
+2017;Europe;Europe;Netherlands;4669298;87454606;Europe
+2017;Europe;Europe;Switzerland;211265;278184;Europe
+2018;NA;NA;Bolivia (Plurinational State of);11815;0;Americas
+2018;NA;NA;China, Hong Kong SAR;34120;67596;Asia
+2018;NA;NA;Iran;170722;0;Asia
+2018;NA;NA;Mozambique;41265;0;Africa
+2018;NA;NA;Other Asia, nes;11692818;370382;Asia
+2018;NA;NA;Rep. of Korea;30230189;14245557;Asia
+2018;NA;NA;Rep. of Moldova;1264157;0;Europe
+2018;NA;Americas;Dominican Rep.;7154;0;Americas
+2018;NA;Africa;United Rep. of Tanzania;7431;0;Africa
+2018;NA;Europe;Czechia;2251897;1501946;Europe
+2018;NA;Africa;Central African Rep.;1830;0;Africa
+2018;NA;Americas;USA;194579378;14339610;Americas
+2018;NA;Africa;Eswatini;5273;793;Africa
+2018;NA;Europe;Bosnia Herzegovina;23935121;4889;Europe
+2018;Oceania;Oceania;Australia;438467673;669339;Oceania
+2018;Oceania;Oceania;New Zealand;361409;158030;Oceania
+2018;Americas;NA;Bahamas;16894;0;Americas
+2018;Americas;NA;Saint Lucia;562;10593;Americas
+2018;Americas;NA;Saint Vincent and the Grenadines;1176;0;Americas
+2018;Americas;Americas;Antigua and Barbuda;2377;0;Americas
+2018;Americas;Americas;Aruba;221;0;Americas
+2018;Americas;Americas;Barbados;3990;0;Americas
+2018;Americas;Americas;Belize;77757;0;Americas
+2018;Americas;Americas;Costa Rica;29534768;0;Americas
+2018;Americas;Americas;Guatemala;6242750;0;Americas
+2018;Americas;Americas;Honduras;3565;0;Americas
+2018;Americas;Americas;Mexico;949407809;0;Americas
+2018;Americas;Americas;Nicaragua;5073;7137;Americas
+2018;Asia;Asia;Kazakhstan;38008680;25;Asia
+2018;Asia;Asia;Kyrgyzstan;1350;0;Asia
+2018;Asia;Asia;Uzbekistan;2660;0;Asia
+2018;Africa;Africa;Burundi;411;0;Africa
+2018;Africa;Africa;Comoros;586;0;Africa
+2018;Africa;Africa;Ethiopia;197362;0;Africa
+2018;Africa;Africa;Kenya;14626;1054;Africa
+2018;Africa;Africa;Madagascar;8513;0;Africa
+2018;Africa;Africa;Malawi;912;0;Africa
+2018;Africa;Africa;Mauritius;2364;0;Africa
+2018;Africa;Africa;Rwanda;0;104;Africa
+2018;Africa;Africa;Seychelles;3231;0;Africa
+2018;Africa;Africa;Zimbabwe;695;0;Africa
+2018;Asia;Asia;China;104440590;547448572;Asia
+2018;Asia;Asia;Japan;119242318;14826746;Asia
+2018;Asia;Asia;Mongolia;334088;0;Asia
+2018;Europe;NA;Belarus;11331900;127300;Europe
+2018;Europe;NA;Russian Federation;10188335;147576;Europe
+2018;Europe;Europe;Bulgaria;181795;19163;Europe
+2018;Europe;Europe;Hungary;14148;3146;Europe
+2018;Europe;Europe;Poland;542326;4221246;Europe
+2018;Europe;Europe;Romania;1205682;137856;Europe
+2018;Europe;Europe;Slovakia;16598;14677;Europe
+2018;Europe;Europe;Ukraine;156553558;3027;Europe
+2018;Oceania;Oceania;Fiji;2726;0;Oceania
+2018;Oceania;NA;Palau;51;0;Oceania
+2018;Africa;Africa;Angola;1182;0;Africa
+2018;Africa;Africa;Congo;1763;23542;Africa
+2018;Africa;Africa;Egypt;67215423;55487;Africa
+2018;Africa;Africa;Libya;8040;0;Africa
+2018;Africa;Africa;Morocco;12880578;61038;Africa
+2018;Africa;Africa;Sudan;822750;0;Africa
+2018;Africa;Africa;Tunisia;86972;0;Africa
+2018;Americas;Americas;Bermuda;179;0;Americas
+2018;Americas;Americas;Canada;157858705;489829;Americas
+2018;Europe;Europe;Denmark;0;1746235533;Europe
+2018;Europe;Europe;Estonia;2496160;8490868;Europe
+2018;Europe;Europe;Finland;1102332;309156;Europe
+2018;Europe;Europe;Iceland;16620;0;Europe
+2018;Europe;Europe;Ireland;2618297;7132572;Europe
+2018;Europe;Europe;Latvia;21706;253421;Europe
+2018;Europe;Europe;Lithuania;905918;3871814;Europe
+2018;Europe;Europe;Norway;348975360;63563;Europe
+2018;Europe;Europe;Sweden;143956493;17290893;Europe
+2018;Europe;Europe;United Kingdom;450937984;1360162;Europe
+2018;Oceania;NA;Samoa;287;0;Oceania
+2018;Americas;Americas;Argentina;63479723;0;Americas
+2018;Americas;Americas;Brazil;1692891;886909;Americas
+2018;Americas;Americas;Chile;330185216;74918;Americas
+2018;Americas;Americas;Colombia;2523;0;Americas
+2018;Americas;Americas;Ecuador;1234;0;Americas
+2018;Americas;Americas;Peru;31025;0;Americas
+2018;Americas;Americas;Uruguay;5376247;551;Americas
+2018;Asia;NA;Brunei Darussalam;240596;8150;Asia
+2018;Asia;NA;Myanmar;6048674;0;Asia
+2018;Asia;NA;Viet Nam;85531438;0;Asia
+2018;Asia;Asia;Indonesia;58546311;0;Asia
+2018;Asia;Asia;Malaysia;2092402;539438;Asia
+2018;Asia;Asia;Philippines;169509;0;Asia
+2018;Asia;Asia;Singapore;713477;2770515;Asia
+2018;Asia;Asia;Thailand;134121628;2349931;Asia
+2018;Africa;Africa;Botswana;0;7339;Africa
+2018;Africa;Africa;Namibia;14844;0;Africa
+2018;Africa;Africa;South Africa;71423;299659;Africa
+2018;Asia;Asia;India;4814731;32066482;Asia
+2018;Asia;Asia;Maldives;283;0;Asia
+2018;Asia;Asia;Pakistan;284427724;189;Asia
+2018;Europe;Europe;Croatia;62530;0;Europe
+2018;Europe;Europe;Greece;328839721;10524604;Europe
+2018;Europe;Europe;Italy;49603082;1053675;Europe
+2018;Europe;Europe;Malta;1983;0;Europe
+2018;Europe;Europe;Montenegro;48193133;0;Europe
+2018;Europe;Europe;Portugal;893102;189888743;Europe
+2018;Europe;Europe;Serbia;81226901;0;Europe
+2018;Europe;Europe;Slovenia;9334;0;Europe
+2018;Europe;Europe;Spain;168157309;1029024185;Europe
+2018;Africa;NA;Cabo Verde;12204;0;Africa
+2018;Africa;NA;Gambia;215;0;Africa
+2018;Africa;Africa;Burkina Faso;89;0;Africa
+2018;Africa;Africa;Ghana;988;0;Africa
+2018;Africa;Africa;Mauritania;247622;0;Africa
+2018;Africa;Africa;Niger;2752800;0;Africa
+2018;Africa;Africa;Nigeria;228972;0;Africa
+2018;Asia;Asia;Armenia;361590;0;Asia
+2018;Asia;Asia;Azerbaijan;115069;0;Asia
+2018;Asia;Asia;Bahrain;1418423;0;Asia
+2018;Asia;Asia;Cyprus;8489;0;Asia
+2018;Asia;Asia;Georgia;118015;0;Asia
+2018;Asia;Asia;Israel;46000;340000;Asia
+2018;Asia;Asia;Jordan;211495;0;Asia
+2018;Asia;Asia;Kuwait;6129;0;Asia
+2018;Asia;Asia;Lebanon;3298;212467;Asia
+2018;Asia;Asia;Oman;25427781;0;Asia
+2018;Asia;Asia;Qatar;202432;0;Asia
+2018;Asia;Asia;Saudi Arabia;80609;21328;Asia
+2018;Asia;Asia;Turkey;249641292;781023;Asia
+2018;Asia;Asia;United Arab Emirates;160546;208515;Asia
+2018;Asia;Asia;Yemen;70382;0;Asia
+2018;Europe;Europe;Austria;47641803;175698;Europe
+2018;Europe;Europe;Belgium;182513128;7997799;Europe
+2018;Europe;Europe;France;133805255;1560993;Europe
+2018;Europe;Europe;Germany;831814827;2072319338;Europe
+2018;Europe;Europe;Luxembourg;4657;2390;Europe
+2018;Europe;Europe;Netherlands;72230263;42983308;Europe
+2018;Europe;Europe;Switzerland;263366;136181;Europe
+2019;NA;NA;China, Hong Kong SAR;33113;84385;Asia
+2019;NA;NA;Côte d'Ivoire;51983;426;Africa
+2019;NA;NA;Lao People's Dem. Rep.;322;0;Asia
+2019;NA;NA;North Macedonia;5922;0;Europe
+2019;NA;NA;Other Asia, nes;172126040;220247;Asia
+2019;NA;NA;Rep. of Korea;24582353;137081;Asia
+2019;NA;NA;Rep. of Moldova;372491;0;Europe
+2019;NA;Europe;Czechia;4434105;1315608;Europe
+2019;NA;Americas;USA;112377719;132606690;Americas
+2019;NA;Africa;Eswatini;1256;34;Africa
+2019;NA;Europe;Bosnia Herzegovina;292830;0;Europe
+2019;Oceania;Oceania;Australia;398633298;1134774;Oceania
+2019;Oceania;Oceania;New Zealand;1143446;0;Oceania
+2019;Americas;NA;Saint Lucia;981;3147;Americas
+2019;Americas;NA;Saint Vincent and the Grenadines;443;0;Americas
+2019;Americas;Americas;Antigua and Barbuda;2980510;0;Americas
+2019;Americas;Americas;Aruba;1435;0;Americas
+2019;Americas;Americas;Barbados;4708;0;Americas
+2019;Americas;Americas;Jamaica;128239;0;Americas
+2019;Americas;Americas;Belize;8543;0;Americas
+2019;Americas;Americas;Costa Rica;12225;0;Americas
+2019;Americas;Americas;El Salvador;1109;0;Americas
+2019;Americas;Americas;Guatemala;11;0;Americas
+2019;Americas;Americas;Honduras;982;0;Americas
+2019;Americas;Americas;Mexico;432048534;0;Americas
+2019;Americas;Americas;Nicaragua;1325890;7287;Americas
+2019;Asia;Asia;Kazakhstan;31009597;119953;Asia
+2019;Asia;Asia;Kyrgyzstan;1200;0;Asia
+2019;Asia;Asia;Uzbekistan;1254;0;Asia
+2019;Africa;Africa;Burundi;156;0;Africa
+2019;Africa;Africa;Comoros;4615;0;Africa
+2019;Africa;Africa;Kenya;615670;0;Africa
+2019;Africa;Africa;Madagascar;131746;0;Africa
+2019;Africa;Africa;Malawi;8347;0;Africa
+2019;Africa;Africa;Mauritius;8414;0;Africa
+2019;Africa;Africa;Rwanda;13243;0;Africa
+2019;Africa;Africa;Seychelles;4801;0;Africa
+2019;Africa;Africa;Zambia;18475;0;Africa
+2019;Africa;Africa;Zimbabwe;5329;0;Africa
+2019;Asia;Asia;China;11535186;949473202;Asia
+2019;Asia;Asia;Japan;228154487;13657168;Asia
+2019;Asia;Asia;Mongolia;35576;0;Asia
+2019;Europe;NA;Belarus;54700;103300;Europe
+2019;Europe;NA;Russian Federation;181944199;3632;Europe
+2019;Europe;Europe;Bulgaria;353657;20128;Europe
+2019;Europe;Europe;Hungary;39634;32003;Europe
+2019;Europe;Europe;Poland;83548324;1574288;Europe
+2019;Europe;Europe;Romania;711425;10354;Europe
+2019;Europe;Europe;Slovakia;23974;27161;Europe
+2019;Oceania;Oceania;Fiji;367878;0;Oceania
+2019;Africa;Africa;Congo;1990;0;Africa
+2019;Africa;Africa;Egypt;33439848;0;Africa
+2019;Africa;Africa;Morocco;18766128;164136;Africa
+2019;Africa;Africa;Tunisia;57992;0;Africa
+2019;Americas;Americas;Bermuda;153;1000;Americas
+2019;Americas;Americas;Canada;246589496;1659546;Americas
+2019;Europe;Europe;Denmark;307106619;3024507928;Europe
+2019;Europe;Europe;Estonia;564936;9685124;Europe
+2019;Europe;Europe;Finland;46206642;20902;Europe
+2019;Europe;Europe;Iceland;33643;0;Europe
+2019;Europe;Europe;Ireland;4648837;5623076;Europe
+2019;Europe;Europe;Latvia;13254;24610;Europe
+2019;Europe;Europe;Lithuania;4601196;8750776;Europe
+2019;Europe;Europe;Norway;799566788;637;Europe
+2019;Europe;Europe;Sweden;177587056;30350;Europe
+2019;Europe;Europe;United Kingdom;401322152;1369306;Europe
+2019;Oceania;NA;Samoa;4860;0;Oceania
+2019;Americas;Americas;Argentina;106281108;0;Americas
+2019;Americas;Americas;Brazil;280065;22770364;Americas
+2019;Americas;Americas;Chile;128244620;91933;Americas
+2019;Americas;Americas;Colombia;1182;0;Americas
+2019;Americas;Americas;Ecuador;4115;0;Americas
+2019;Americas;Americas;Guyana;2456;0;Americas
+2019;Americas;Americas;Peru;19371927;0;Americas
+2019;Americas;Americas;Uruguay;2278508;210788;Americas
+2019;Asia;NA;Brunei Darussalam;100200;0;Asia
+2019;Asia;NA;Myanmar;106;0;Asia
+2019;Asia;NA;Viet Nam;100626557;0;Asia
+2019;Asia;Asia;Indonesia;46676692;33;Asia
+2019;Asia;Asia;Malaysia;658842;189098;Asia
+2019;Asia;Asia;Philippines;106239;0;Asia
+2019;Asia;Asia;Singapore;132342;1243039;Asia
+2019;Asia;Asia;Thailand;7171698;2808893;Asia
+2019;Africa;Africa;Namibia;5852;0;Africa
+2019;Africa;Africa;South Africa;316721533;57097;Africa
+2019;Asia;Asia;India;8328355;42320495;Asia
+2019;Asia;Asia;Pakistan;1468507;235873;Asia
+2019;Europe;Europe;Croatia;55806;335621;Europe
+2019;Europe;Europe;Greece;306610205;15288251;Europe
+2019;Europe;Europe;Italy;2160151;1625918;Europe
+2019;Europe;Europe;Malta;14580;201;Europe
+2019;Europe;Europe;Portugal;442720;24297869;Europe
+2019;Europe;Europe;Serbia;35675922;0;Europe
+2019;Europe;Europe;Slovenia;5647;0;Europe
+2019;Europe;Europe;Spain;108470048;616714622;Europe
+2019;Africa;Africa;Benin;586;0;Africa
+2019;Africa;Africa;Burkina Faso;426;0;Africa
+2019;Africa;Africa;Ghana;1034;0;Africa
+2019;Africa;Africa;Mauritania;20250;0;Africa
+2019;Africa;Africa;Nigeria;180910;0;Africa
+2019;Africa;Africa;Senegal;76062;0;Africa
+2019;Africa;Africa;Togo;2379;0;Africa
+2019;Asia;Asia;Armenia;2794;0;Asia
+2019;Asia;Asia;Azerbaijan;3211;0;Asia
+2019;Asia;Asia;Cyprus;2374;0;Asia
+2019;Asia;Asia;Israel;6325000;3738000;Asia
+2019;Asia;Asia;Jordan;17190;0;Asia
+2019;Asia;Asia;Kuwait;3345;0;Asia
+2019;Asia;Asia;Qatar;50477;0;Asia
+2019;Asia;Asia;Saudi Arabia;133850;0;Asia
+2019;Asia;Asia;Turkey;262714736;122386;Asia
+2019;Asia;Asia;United Arab Emirates;45922;3022;Asia
+2019;Asia;Asia;Yemen;6793;0;Asia
+2019;Europe;Europe;Austria;38366371;821352;Europe
+2019;Europe;Europe;Belgium;280527643;11385573;Europe
+2019;Europe;Europe;France;203943985;3302548;Europe
+2019;Europe;Europe;Germany;94005323;2280021120;Europe
+2019;Europe;Europe;Luxembourg;8942021;0;Europe
+2019;Europe;Europe;Netherlands;480366591;703500237;Europe
+2019;Europe;Europe;Switzerland;319496;38938;Europe
