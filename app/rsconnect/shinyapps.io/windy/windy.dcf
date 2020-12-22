@@ -5,8 +5,8 @@ account: windy
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 3425479
-bundleId: 4019921
+bundleId: 4020379
 url: https://windy.shinyapps.io/windy/
-when: 1608666626.24232
+when: 1608675106.9007
 asMultiple: FALSE
 asStatic: FALSE

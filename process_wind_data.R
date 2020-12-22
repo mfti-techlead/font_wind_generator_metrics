@@ -6,9 +6,9 @@ library(pastecs)
 #-----------------------------------------------------------#
 #---- Load wind data by coordinates for series of dates ----#
 #-----------------------------------------------------------#
-dt <- seq(ymd_hms(paste(2020,10,1,00,00,00, sep="-")),
+dt <- seq(ymd_hms(paste(2020,12,21,00,00,00, sep="-")),
           ymd_hms(paste(2020,12,21,21,00,00, sep="-")),by="3 hours")
-wind_data_raw <- wind.dl_2(dt,60.0,60.2,29.4,29.7)
+wind_data_raw <- wind.dl_2(dt,60.0,60.0,29.4,29.4)
 wind_data <- tidy (wind_data_raw)
 
 #-----------------------------------------------------------#
@@ -43,9 +43,9 @@ plot(x)
 #--------- Merge wind data & wind generators info ----------#
 #-----------------------------------------------------------#
 wind_data$speed_rnd = round(wind_data$speed,0)
-kotlin = merge(wind.data, pcurves, by.x = 'speed_rnd', by.y = 'Speed')
+kotlin = merge(wind_data, pcurves, by.x = 'speed_rnd', by.y = 'Speed')
 kotlin = kotlin[order(kotlin$time),]
-plot(x = kotlin$time, y = kotlin$`Nordex N90`, type = 'b', xlab = 'Период (2020 г.)',ylab = 'Мощность кВт')
+plot(x = kotlin$time, y = kotlin$`Nordex N90`, type = 'b', xlab = 'Period',ylab = 'Power, KWt')
 stat.desc(kotlin[,8:14])
 
 
